@@ -1,0 +1,3793 @@
+id|name|gender
+1|Aki Kaurismaki|0
+2|Allison Anders|1
+3|Stephen Hopkins|2
+6|George Lucas|2
+7|Andrew Stanton|2
+8|Robert Zemeckis|2
+9|Sam Mendes|2
+10|Orson Welles|2
+11|Lars von Trier|2
+13|Luc Besson|2
+14|Fritz Lang|2
+15|Isabel Coixet|1
+17|Gore Verbinski|2
+18|Quentin Tarantino|2
+19|Eytan Fox|2
+20|Michael Winterbottom|2
+21|Francis Ford Coppola|2
+24|Katsuhiro Otomo|2
+25|Clint Eastwood|2
+26|David Silverman|2
+27|Michel Gondry|2
+28|Alejandro Gonzalez Inarritu|2
+29|David Cronenberg|2
+30|Stanley Kubrick|2
+31|Terry Gilliam|2
+32|Pedro Almodovar|2
+33|Curtis Hanson|2
+34|Hany Abu-Assad|2
+35|James Mangold|2
+36|Stephen Daldry|2
+37|Tony Kaye|2
+38|Steven Spielberg|2
+39|Tim Burton|2
+40|Richard Linklater|2
+41|Christopher Nolan|2
+42|Ridley Scott|2
+43|Zhang Yimou|2
+44|Hayao Miyazaki|2
+45|Michael Mann|2
+46|Chris Kentis|2
+48|Emile Ardolino|2
+49|Martin Brest|2
+52|Otto Preminger|2
+54|Michael Bay|2
+55|Tony Scott|2
+56|Steven Lisberger|2
+57|Guy Ritchie|2
+58|Susanne Bier|1
+59|Martin Scorsese|2
+60|Tom Tykwer|2
+61|John McTiernan|0
+62|Krzysztof Kieslowski|2
+63|Brian De Palma|2
+64|Lone Scherfig|1
+65|Kim Ki-duk|2
+66|Garry Marshall|2
+67|Joel Coen|0
+68|Woody Allen|2
+69|Peter Jackson|2
+70|Ralph Bakshi|2
+74|Tod Browning|2
+75|Harold Ramis|2
+77|Richard Kelly|2
+78|Ang Lee|2
+79|Lewis Milestone|0
+80|Wim Wenders|2
+81|Francois Truffaut|0
+82|Walter Hill|0
+83|Robert Wise|2
+84|Sofia Coppola|1
+85|Nicholas Meyer|2
+86|Leonard Nimoy|2
+88|Sonke Wortmann|0
+90|Steven Soderbergh|2
+91|Blake Edwards|2
+93|Iain Softley|2
+94|Danny Boyle|2
+95|William Shatner|2
+96|Richard Fleischer|0
+97|James Wan|2
+98|Sydney Pollack|2
+99|Todd Holland|0
+100|Paul McGuigan|0
+101|Robert Rodriguez|0
+103|Christian Petzold|2
+104|Jean-Jacques Annaud|2
+105|David Carson|2
+106|Jean-Pierre Jeunet|2
+107|Ernst Lubitsch|2
+108|Mel Gibson|2
+109|Jonathan Frakes|2
+110|Stuart Baird|2
+111|Henri-Georges Clouzot|2
+112|Terry George|2
+114|Peter Weir|2
+116|Frank Capra|0
+117|Alfred Hitchcock|2
+118|Darren Lynn Bousman|2
+120|James Cameron|2
+121|Elia Kazan|2
+122|Nicholas Ray|0
+124|Andrzej Wajda|2
+125|Kimberly Peirce|0
+127|James Whale|2
+128|Stephen Gaghan|2
+129|Philip Kaufman|2
+131|Rob Reiner|2
+132|P.J. Hogan|2
+133|David Mackenzie|2
+134|Billy Wilder|0
+135|Oliver Stone|2
+136|Stephen Frears|0
+137|Merian C. Cooper|2
+138|Chris Weitz|0
+139|Takeshi Kitano|2
+140|Danny DeVito|2
+142|Jerry Zucker|2
+143|Mel Stuart|2
+144|Guy Hamilton|2
+145|Roman Polanski|2
+146|Richard Brooks|2
+147|Jean-Luc Godard|2
+150|Jonathan Demme|2
+151|Len Wiseman|2
+152|Frank Darabont|2
+153|Milos Forman|2
+154|Kathryn Bigelow|1
+155|Ron Shelton|2
+156|Fred Zinnemann|0
+157|Michael Curtiz|0
+158|Stacy Peralta|2
+159|Robert Redford|2
+160|Donna Deitch|1
+161|Jonathan Mostow|2
+162|Howard Hawks|0
+163|Francois Ozon|2
+164|John Landis|2
+166|Jim Jarmusch|0
+167|Thomas Vinterberg|2
+168|Tom Shadyac|2
+169|Sergio Leone|2
+171|Marc Evans|2
+172|Pitof|2
+173|Russ Meyer|0
+176|Emile Gaudreault|2
+177|David R. Ellis|2
+178|Joe Johnston|2
+179|David Kellogg|2
+180|Deepa Mehta|1
+181|Paul Thomas Anderson|2
+182|Francois Dupeyron|0
+183|Wolfgang Becker|2
+184|Liev Schreiber|2
+187|Hal Ashby|2
+189|Akira Kurosawa|2
+191|Olivier Ducastel|0
+192|David Frankel|2
+194|Fatih Akin|2
+195|Wes Craven|2
+196|Barry Levinson|2
+197|Gus Van Sant|2
+198|Wolfgang Petersen|2
+199|Spike Lee|2
+200|Sidney Lumet|0
+201|Lasse Hallstrom|2
+202|Paul W.S. Anderson|2
+203|Mike Nichols|2
+204|Lawrence Kasdan|2
+205|Bennett Miller|2
+206|Gary Fleder|2
+207|Zach Braff|2
+208|Paul Verhoeven|2
+209|Bruce Beresford|2
+210|David Lynch|2
+211|Federico Fellini|2
+212|Mathieu Kassovitz|2
+213|David Hand|2
+214|Anthony Minghella|2
+215|Andrew Adamson|2
+216|Joel Schumacher|2
+218|Wes Anderson|2
+219|Chris Wedge|2
+222|Vincenzo Natali|2
+223|Robert Stevenson|2
+225|Roland Emmerich|2
+229|Colin Strause|2
+230|Reza Bagher|0
+231|Michael Haneke|2
+233|Mike Figgis|2
+234|Ron Howard|2
+235|Baz Luhrmann|2
+236|Gurinder Chadha|1
+240|Catherine Breillat|1
+241|Alan J. Pakula|2
+242|Nick Hamm|2
+244|Darren Aronofsky|2
+245|Arthur Penn|2
+246|John Singleton|2
+247|Mira Nair|1
+248|Alberto Rodriguez|0
+249|Gordon Parks|2
+250|John Huston|2
+251|Ingmar Bergman|2
+253|Spike Jonze|2
+254|John Guillermin|2
+255|Larry Charles|2
+257|Werner Herzog|2
+258|Patty Jenkins|1
+259|Roger Avary|2
+260|Richard Curtis|2
+261|Roger Michell|2
+262|Richard Donner|2
+263|Lee Tamahori|2
+264|Nick Park|2
+265|McG|2
+266|Adrian Lyne|2
+268|Stephane Brize|2
+269|Angela Robinson|1
+271|Bobby Farrelly|2
+272|Duncan Tucker|0
+273|Julian Schnabel|2
+274|David Fincher|2
+275|Ronald Neame|2
+279|Sam Raimi|2
+280|Francis Lawrence|2
+281|Stephen Sommers|2
+283|Oliver Hirschbiegel|2
+284|Sam Peckinpah|0
+285|Jeannot Szwarc|2
+286|Joseph Sargent|2
+287|Kevin Costner|2
+288|Florian Henckel von Donnersmarck|2
+289|Terry Jones|2
+290|Pete Docter|2
+291|Christophe Gans|2
+292|Andrei Tarkovsky|2
+293|Robert Mulligan|2
+294|John Ford|0
+295|Fernando Meirelles|2
+296|Lilly Wachowski|1
+297|Barry Sonnenfeld|0
+298|Edward Zwick|2
+299|John McNaughton|2
+300|D.W. Griffith|2
+301|Mick Jackson|2
+302|Ivan Reitman|2
+303|Randal Kleiser|2
+304|Charles Crichton|2
+305|Dennis Hopper|2
+306|Roland Joffe|0
+307|Neil Jordan|0
+308|Bryan Singer|2
+309|Victor Fleming|0
+311|Sharon Maguire|1
+312|Alan Parker|2
+313|Roberto Benigni|2
+314|George Roy Hill|2
+315|Sergei M. Eisenstein|2
+316|Terence Young|2
+319|Robert Altman|2
+320|Volker Schlondorff|2
+321|Chris Marker|0
+322|Jan de Bont|2
+323|William Wyler|2
+324|Walter Salles|2
+325|Lewis Gilbert|2
+326|Peter R. Hunt|0
+328|Park Chan-wook|2
+329|Chris Columbus|2
+330|Alfonso Cuaron|2
+331|Mike Newell|2
+332|David Yates|2
+334|Jacques Tourneur|0
+335|Tim Robbins|2
+337|Robert Bresson|2
+338|John Waters|2
+339|Jay Roach|2
+340|John Glen|2
+342|Richard Lester|0
+343|Joseph L. Mankiewicz|2
+344|Martin Campbell|2
+345|Jane Campion|1
+346|Roger Spottiswoode|2
+347|Lukas Moodysson|2
+349|M. Night Shyamalan|2
+350|Bernardo Bertolucci|2
+351|Edgar Wright|2
+353|James McTeigue|2
+354|John Cassavetes|2
+355|John Woo|2
+356|Samuel Armstrong|2
+358|Claude Zidi|2
+359|Albert Hughes|2
+360|Jonathan Dayton|2
+364|Andrew Niccol|2
+365|Richard Attenborough|2
+366|Jan Sverak|0
+368|Cameron Crowe|2
+369|Doug Liman|2
+371|John Carpenter|2
+372|Rupert Wainwright|2
+373|Brad Silberling|0
+374|Roger Kumble|2
+377|John Moore|2
+378|Chris Miller|2
+379|Douglas Trumbull|2
+380|Ron Clements|2
+381|Jim Abrahams|2
+383|Stanley Kramer|2
+384|Satyajit Ray|2
+385|Hiroyuki Okiura|0
+386|Willard Carroll|2
+387|David Lean|2
+388|Fred M. Wilcox|2
+390|Vittorio De Sica|2
+393|Niels Mueller|0
+394|Wong Kar-wai|2
+395|Rob Bowman|2
+396|Matthew Robbins|2
+397|Peter Yates|2
+398|Bob Clark|2
+400|Chuck Russell|2
+401|Nora Ephron|0
+402|John Badham|2
+403|John Lasseter|2
+404|Jon Turteltaub|2
+405|Paul Michael Glaser|2
+406|Marc Forster|2
+407|Phillip Noyce|2
+408|Gavin Hood|2
+409|Franklin J. Schaffner|2
+410|Stanley Donen|2
+411|John Harrison|2
+413|Marleen Gorris|0
+415|Norman Jewison|2
+416|Brian Levant|2
+418|John Frankenheimer|2
+419|Charlie Chaplin|2
+420|Stuart Rosenberg|2
+424|Martin Koolhoven|0
+425|Vincente Minnelli|2
+429|George A. Romero|2
+430|Zack Snyder|2
+431|Dean Parisot|2
+432|Joe Dante|2
+434|Nicolas Roeg|2
+437|Jules Dassin|0
+440|Carlos Saldanha|2
+441|Eric Darnell|2
+442|J.J. Abrams|2
+443|Mel Brooks|2
+446|John Sturges|2
+448|Gaspar Noe|2
+450|George Cukor|0
+451|Don Siegel|2
+452|James Bridges|2
+453|Frank Borzage|2
+454|Robert Rossen|2
+457|Stefan Ruzowitzky|2
+459|Jon Amiel|2
+461|William Friedkin|0
+462|Michelangelo Antonioni|2
+463|Jim McBride|2
+464|Mark Pellington|2
+466|Niki Caro|1
+467|Josef Rusnak|2
+468|Carol Reed|2
+469|Louis Malle|2
+471|Ken Loach|2
+472|Bill Condon|2
+474|Fernando Leon de Aranoa|2
+475|Nadia Tass|0
+477|James Ivory|2
+478|Sylvester Stallone|2
+479|Robert De Niro|2
+480|Peter Webber|2
+481|Allen Coulter|2
+482|Mark Steven Johnson|2
+483|Todd Robinson|2
+485|Bong Joon-ho|2
+487|Michael Lehmann|2
+488|Richard Eyre|2
+489|none|1
+492|Gabor Csupo|2
+493|David Ayer|0
+494|Stephen J. Anderson|2
+495|Steve Bendelack|2
+497|Kevin Munroe|2
+498|Rolf Schubel|2
+499|Mel Smith|2
+500|Santiago Segura|2
+502|Errol Morris|2
+503|Mary Harron|1
+504|Julie Taymor|1
+505|Jules Bass|2
+506|Julio Medem|2
+507|John G. Avildsen|2
+508|Ted Kotcheff|2
+509|George P. Cosmatos|2
+510|Peter MacDonald|2
+511|Jeroen Krabbe|0
+513|John Cameron Mitchell|2
+514|Graeme Clifford|2
+517|Todd Haynes|2
+519|Zana Briski|0
+521|Gabriele Muccino|2
+522|Ralph Nelson|2
+523|Erich von Stroheim|0
+524|Ron Underwood|2
+526|Renny Harlin|2
+527|Michael Tolkin|2
+528|Fenton Bailey|2
+529|Guillermo del Toro|2
+531|Tobi Baumann|0
+535|Michael Moore|2
+536|Jonathan Caouette|2
+539|Andy Tennant|2
+540|Todd Field|2
+544|Chris Nahon|2
+547|Nick Gomez|2
+548|E. Elias Merhige|0
+550|Mike Hodges|0
+553|Neil Burger|2
+554|Donald Petrie|2
+555|Michael Pressman|2
+556|Steve Barron|2
+557|Stuart Gillard|2
+558|Kevin Macdonald|2
+559|Marcus Nispel|2
+560|Lars Kraume|2
+561|Laurent Cantet|2
+562|Mike Judge|2
+563|Sven Taddicken|2
+564|Ol Parker|0
+565|Mike Mills|2
+566|Terry Zwigoff|0
+567|Abdellatif Kechiche|2
+568|Peter Hedges|2
+569|Jacques Audiard|2
+570|Cedric Klapisch|2
+575|Juan Carlos Fresnadillo|2
+578|Rob Marshall|2
+579|Alexander Witt|2
+580|Nancy Meyers|1
+582|David Koepp|2
+583|Peyton Reed|2
+584|John Irvin|2
+585|Agnieszka Holland|1
+586|Gregory Hoblit|2
+587|Shawn Levy|2
+589|David O. Russell|2
+594|Ronny Yu|0
+595|Axel Sand|2
+597|Brian Gibson|2
+598|Christopher McQuarrie|0
+599|Xavier Gens|2
+600|Dominik Moll|0
+601|Jon Avnet|2
+602|Simon Wincer|0
+603|Paul Haggis|2
+604|Bronwen Hughes|1
+605|Irwin Winkler|2
+607|Richard LaGravenese|2
+608|Roger Donaldson|2
+609|Stephen Herek|2
+610|Peter Hewitt|2
+612|Robert Aldrich|2
+614|Sebastian Schipper|0
+615|Phil Joanou|2
+618|Luc Jacquet|0
+619|Georges Lautner|0
+621|Tom Gries|2
+622|Taylor Hackford|0
+626|Ted Post|2
+627|Don Taylor|2
+628|J. Lee Thompson|0
+629|Eli Roth|2
+630|Michael Davis|2
+631|Stuart Gordon|2
+632|Rob Zombie|2
+634|Simon West|2
+635|Stephen Norrington|2
+637|George Stevens|2
+638|Steven Zaillian|2
+641|John Madden|0
+642|Martin Ritt|2
+643|Louis Leterrier|2
+644|Jon Favreau|2
+645|Rob Minkoff|2
+648|Rob Cohen|2
+652|John Sayles|2
+653|Heidi Ewing|0
+655|Davis Guggenheim|2
+656|Gilles Bourdos|0
+658|Claude Chabrol|0
+659|Herbert Ross|0
+663|Gregg Araki|2
+664|Jim Fall|2
+666|Michael Winner|2
+667|Anthony Russo|2
+668|Peter Segal|2
+669|Menahem Golan|2
+670|John Schlesinger|2
+671|Kevin Smith|2
+672|Edward Dmytryk|0
+673|Dick Richards|0
+676|Niels Arden Oplev|2
+679|Charles B. Pierce|2
+680|Ondi Timoner|1
+681|Julie Delpy|1
+682|Paul Bogart|2
+683|Bob Rafelson|2
+684|Mark Robson|2
+689|Nelson Shin|2
+692|Richard Michaels|2
+696|Sebastian Gutierrez|2
+697|John Boorman|2
+698|Bille August|2
+701|John Milius|2
+705|Randa Haines|1
+706|Irvin Kershner|2
+707|Richard Marquand|2
+711|Paul Weitz|2
+712|Alejandro Amenabar|2
+715|Jeremy Leven|2
+723|Pat O'Connor|2
+725|Marc Webb|2
+726|Sylvain White|2
+728|Tod Williams|2
+729|Michael Apted|2
+730|Brian Taylor|2
+731|Eric Bress|2
+732|Beeban Kidron|1
+733|Bruce Campbell|2
+735|Andrew Davis|2
+736|Robert Towne|2
+737|Joachim Ronning|0
+738|Takashi Shimizu|2
+739|Toby Wilkins|0
+740|Tim Story|2
+742|Michael Anderson|2
+746|Bertrand Tavernier|2
+747|James Gray|2
+749|George Miller|2
+751|Cristian Mungiu|2
+752|Naomi Kawase|1
+753|Vincent Paronnaud|2
+754|Carlos Reygadas|0
+755|Lee Chang-dong|2
+756|Rachid Bouchareb|2
+757|Adam Shankman|2
+758|Gary Sinyor|2
+759|Tim Sullivan|2
+760|Steven Brill|2
+761|Claude Sautet|2
+762|Florent-Emilio Siri|0
+766|Antoine Fuqua|2
+770|Alejandro Agresti|2
+771|John Dahl|2
+772|Russell Mulcahy|2
+773|Alex Proyas|2
+774|Tom McCarthy|0
+775|Michael Cristofer|2
+776|Griffin Dunne|0
+777|Nicolas Winding Refn|2
+778|Brad Bird|2
+780|Jonathan Lynn|2
+781|Sergio Martino|2
+786|Andrzej Bartkowiak|2
+787|Peter Medak|2
+792|Dick Maas|2
+793|John Rich|2
+794|Richard Greenberg|2
+797|George Sidney|2
+798|Rod Lurie|2
+800|Richard C. Sarafian|0
+801|Herve Renoh|2
+803|John Hughes|2
+804|Brett Ratner|2
+805|Gerard Krawczyk|2
+806|Brian Helgeland|2
+807|Hironobu Sakaguchi|0
+808|Paul Schrader|0
+809|Carl Franklin|0
+811|Howard Deutch|2
+812|Richard Rush|2
+813|Lewis Teague|2
+815|David Drury|2
+818|Simon Wells|2
+819|Andrew Lau|0
+821|Mark Rydell|2
+822|Harald Zwart|2
+823|Uli Edel|0
+826|Irwin Allen|0
+827|Hugh Johnson|2
+828|Kari Skogland|1
+833|David Wain|2
+837|Daniel Sackheim|2
+839|Liam Lynch|2
+840|Colin Nutley|0
+845|Herb Freed|2
+848|George Bowers|2
+850|Frank Oz|2
+858|Julien Temple|2
+860|Ole Bornedal|2
+879|Harold Becker|2
+883|Andrew Jarecki|2
+884|Costa-Gavras|0
+886|Robert Shaye|2
+887|Timur Bekmambetov|2
+888|Matthew Vaughn|2
+889|Penny Marshall|1
+890|Maurice Pialat|2
+891|Zach Helm|2
+892|Ben Sombogaart|2
+897|Joe Pytka|2
+904|Uwe Boll|2
+905|Ben Younger|2
+908|Harley Cokeliss|2
+910|Phil Alden Robinson|2
+911|George Gallo|2
+913|Gerard Pires|0
+914|Roger Young|2
+918|Jia Zhangke|0
+920|Mike Binder|2
+922|Nigel Cole|2
+926|Edouard Molinaro|2
+943|Jean-Daniel Verhaeghe|2
+944|Frederic Forestier|2
+952|Franco Zeffirelli|2
+962|James Yukich|2
+964|George Seaton|2
+965|Roger Christian|2
+967|Catherine Hardwicke|1
+974|Johnnie To|0
+976|Fernando Trueba|0
+977|Stefen Fangmeier|0
+979|Paul Greengrass|2
+980|Jack Clayton|2
+981|Hirokazu Koreeda|2
+983|James L. Brooks|2
+984|John Patrick Shanley|2
+986|Amy Holden Jones|1
+987|Anand Tucker|2
+988|James Orr|2
+989|Norman Rene|2
+990|Mark L. Lester|2
+991|Bonnie Hunt|1
+992|Luis Llosa|2
+994|Marc Lawrence|2
+995|Eric Tsang|2
+996|Tsui Hark|2
+997|Ringo Lam|2
+999|David Slade|2
+1000|Gary Ross|2
+1002|Ken Finkleman|2
+1003|Daniel Myrick|2
+1004|Tommy Lee Wallace|2
+1005|Hideo Nakata|2
+1011|Robert Lieberman|2
+1013|Atiq Rahimi|0
+1015|Peter Hall|2
+1024|John Herzfeld|2
+1026|Fons Rademakers|2
+1028|Alexander Payne|0
+1029|Stephan Elliott|2
+1030|Leos Carax|0
+1031|J.B. Rogers|0
+1032|Shari Springer Berman|1
+1034|Paul Flaherty|2
+1036|David Twohy|0
+1037|Ben Stiller|2
+1052|David Zucker|2
+1054|Andy Wilson|2
+1060|Claude Berri|2
+1062|Michael Rymer|2
+1065|Takashi Miike|0
+1066|Alain Chabat|2
+1067|Rand Ravich|2
+1075|Michael Radford|2
+1076|Hugh Wilson|2
+1079|Ken Kwapis|0
+1081|Rod Hardy|2
+1087|Julian Jarrold|2
+1093|Noel Marshall|2
+1101|Richard Franklin|2
+1102|Stuart Orme|2
+1109|Rouben Mamoulian|2
+1110|Mikael Hafstrom|0
+1112|Charles Jarrott|2
+1113|Terence Fisher|2
+1119|Marvin J. Chomsky|0
+1120|Kenneth Branagh|2
+1125|Betty Thomas|1
+1126|Phil Karlson|2
+1128|King Vidor|2
+1129|Lloyd Bacon|2
+1130|Leo McCarey|2
+1138|Roger Corman|2
+1141|Mark Sandrich|2
+1145|Michael Caton-Jones|2
+1148|Peter Greenaway|2
+1149|Valery Todorovsky|2
+1150|Jack Smight|2
+1161|Terrence Malick|2
+1162|Virginie Despentes|0
+1167|William Beaudine|2
+1174|Jesus Franco|2
+1180|Oxide Pang Chun|2
+1182|Kinji Fukasaku|2
+1185|Fred Olen Ray|2
+1201|George Clooney|2
+1209|Jeff Burr|2
+1211|Steven C. Miller|2
+1234|Bruce A. Evans|2
+1238|Edgar G. Ulmer|0
+1249|Sean Ellis|2
+1250|Geoff Murphy|2
+1251|Mario Monicelli|0
+1253|Ken Russell|2
+1257|W.S. Van Dyke|2
+1263|Percy Adlon|2
+1270|Dominique Othenin-Girard|2
+1273|Dennis Dugan|2
+1274|Erik Canuel|0
+1277|Douglas McGrath|2
+1278|Harold S. Bucquet|2
+1280|Curtis Bernhardt|0
+1281|Tobe Hooper|2
+1282|Gary Sherman|0
+1286|James Merendino|0
+1293|Jim Gillespie|2
+1294|Danny Cannon|2
+1295|Jonathan King|2
+1296|Gillies MacKinnon|2
+1298|Scott Hicks|2
+1300|Gwen Wetzler|0
+1302|Mark Christopher|2
+1304|Harald Reinl|2
+1317|Charles Vidor|2
+1337|Trey Parker|2
+1338|Henry Bean|2
+1340|Howard Zieff|2
+1345|Jeremiah S. Chechik|2
+1347|Edmund Goulding|0
+1352|Ted Demme|2
+1354|Lucy Walker|1
+1359|Sajid Khan|2
+1361|Billy Ray|2
+1363|Coline Serreau|1
+1365|Jean-Paul Rappeneau|2
+1366|Damiano Damiani|2
+1367|Ken Annakin|2
+1383|Keenen Ivory Wayans|2
+1385|Yash Chopra|2
+1386|Aziz Mirza|2
+1387|Kunal Kohli|0
+1388|Nikhil Advani|0
+1389|Malcolm D. Lee|2
+1396|Michael Katleman|2
+1400|Peter Richardson|0
+1408|Rick Rosenthal|0
+1412|Joe Wright|2
+1413|Peter Berg|2
+1414|Gregory Nava|2
+1425|Robert Luketic|2
+1426|Peter Chelsom|2
+1433|Michael Herbig|2
+1444|Santosh Sivan|2
+1446|Peter Hyams|2
+1448|Neil Armfield|2
+1457|Henry King|2
+1459|Henry Hathaway|0
+1462|Rebecca Miller|1
+1463|Daniel Vigne|0
+1464|Jean-Jacques Beineix|2
+1465|Denys Arcand|2
+1467|Sean S. Cunningham|2
+1472|Luis Garcia Berlanga|2
+1474|Bigas Luna|2
+1475|Andrew Dominik|2
+1476|Patrice Leconte|2
+1477|Shekhar Kapur|2
+1479|Kevin Lima|2
+1490|David Greene|2
+1492|F. Gary Gray|2
+1494|Brad Anderson|2
+1498|Just Jaeckin|2
+1499|Michael Patrick King|2
+1501|Tony Gilroy|2
+1506|Richard Benjamin|2
+1507|Nimrod Antal|2
+1515|John Flynn|2
+1524|Ray Lawrence|2
+1529|Arnaud Desplechin|2
+1536|Peter Bogdanovich|2
+1538|Rene Clement|2
+1539|Julien Duvivier|0
+1540|Abel Ferrara|2
+1551|Ben Affleck|2
+1559|Henry Koster|2
+1568|Henry Levin|2
+1576|Wayne Wang|0
+1577|Val Guest|2
+1590|Andrew L. Stone|2
+1591|David Moreton|0
+1593|Gene Kelly|2
+1596|David Lowell Rich|2
+1597|Anthony Mann|2
+1599|Ethan Coen|0
+1600|Jacques Deray|0
+1602|Gil Junger|2
+1605|Charlie Kaufman|2
+1608|Judd Apatow|2
+1609|Edward Norton|2
+1612|John Maybury|2
+1614|Satoshi Kon|0
+1615|Don Bluth|2
+1619|Richard A. Colla|2
+1620|Michael Ritchie|2
+1622|Samuel Fuller|0
+1624|James Cox|2
+1625|Ulrich Seidl|2
+1626|Daniel Petrie|2
+1645|Tony Gatlif|2
+1646|Christopher Smith|2
+1648|Ivan Dykhovichnyy|2
+1653|Ferdinando Baldi|2
+1656|Kirsten Sheridan|1
+1661|Kerry Conran|2
+1663|Nick Love|2
+1664|Andrew Fleming|2
+1671|Michael Polish|2
+1676|Zalman King|0
+1677|George Butler|0
+1678|Arthur Allan Seidelman|2
+1679|Jonathan Kaplan|2
+1681|Shane Black|2
+1682|Richard Stanley|2
+1683|Antonio Margheriti|0
+1688|Nick Hurran|2
+1692|Rob Sitch|2
+1699|Tony Giglio|2
+1700|John Boskovich|0
+1701|Sanjay Leela Bhansali|2
+1702|Martin Donovan|0
+1705|Richard Shepard|2
+1707|David Dobkin|2
+1708|Paul Bolger|2
+1709|Pete Travis|0
+1721|Graham Baker|2
+1722|Sturla Gunnarsson|2
+1723|Yuri Kulakov|0
+1726|Takashi Yamazaki|0
+1733|Jean-Pierre Melville|2
+1736|Wesley Ruggles|2
+1737|Bryan Foy|2
+1746|Christophe Barratier|2
+1748|Fred Dekker|2
+1750|Steve Hickner|2
+1764|Margarethe von Trotta|1
+1775|Charles Band|2
+1778|James Signorelli|2
+1782|David Anspaugh|2
+1784|Nathan H. Juran|0
+1787|Chuck Workman|2
+1789|Anton Corbijn|2
+1792|Ramin Bahrani|0
+1793|Mike Cahill|0
+1794|John Carney|2
+1805|Dirk Shafer|2
+1808|Joe Swanberg|0
+1811|Carl Schenkel|2
+1814|Tony Richardson|2
+1824|Clark Johnson|2
+1825|Melvin Van Peebles|0
+1834|Ryuhei Kitamura|2
+1836|Tom Dey|2
+1837|Luis Mandoki|0
+1838|Chris Sivertson|0
+1842|Sherry Hormann|1
+1848|Shusuke Kaneko|2
+1851|John Derek|0
+1852|Adam Simon|2
+1858|Sean Penn|2
+1866|Florian Gallenberger|0
+1872|George Ratliff|2
+1877|John Hamburg|2
+1878|Gene Wilder|2
+1880|Alan Gibson|2
+1890|Petter Naess|0
+1899|Frank Tashlin|2
+1902|Dick Lowry|2
+1907|Barbet Schroeder|2
+1908|Kevin Reynolds|0
+1910|Til Schweiger|2
+1911|Gela Babluani|0
+1916|Gary Nelson|2
+1921|Bob Spiers|2
+1922|Tim Hunter|2
+1944|Anne Fontaine|1
+1968|Anthony Hickox|0
+1970|Bill Duke|2
+1972|David McNally|2
+1982|James Foley|2
+1998|Arthur Hiller|2
+2001|Sergio Corbucci|0
+2009|Frederik Du Chau|2
+2018|Gael Morel|2
+2021|Carl Reiner|2
+2022|Marcus Adams|2
+2024|Tim Hill|2
+2031|Frank Marshall|2
+2034|Shuki Levy|2
+2040|Jay Chandrasekhar|2
+2043|Kasi Lemmons|1
+2045|Juan Antonio Bayona|2
+2047|Rodman Flender|2
+2048|Anne Fletcher|1
+2050|Jake Kasdan|2
+2058|Takao Okawara|2
+2063|Craig Gillespie|0
+2065|Mimi Leder|1
+2071|Alek Keshishian|2
+2072|Byron Haskin|2
+2076|Pierre Salvadori|2
+2085|Cecil B. DeMille|2
+2090|Larry Peerce|2
+2094|Marcello Fondato|0
+2095|Tibor Takacs|2
+2097|Darrell James Roodt|0
+2100|Steven Hilliard Stern|0
+2102|Lucky McKee|2
+2105|Aaron Norris|2
+2107|Clare Kilner|1
+2114|Greg Beeman|2
+2115|Jay Sandrich|2
+2117|Patrick Lussier|0
+2118|Andrew V. McLaglen|2
+2122|Edward Lachman|2
+2123|Robert Bierman|2
+2125|Jim Wynorski|2
+2129|Matt Reeves|2
+2130|James Keach|2
+2131|Thomas Carter|2
+2134|Jonathan Hensleigh|2
+2135|Jerry Jameson|2
+2137|Francis Veber|2
+2138|Steve Carr|2
+2143|Pieter Kuijpers|2
+2149|Juan Diego Solanas|0
+2151|Jason Friedberg|2
+2152|David Schmoeller|2
+2155|Allan A. Goldstein|2
+2162|Kurt Wimmer|2
+2163|Michael Hoffman|2
+2165|Wayne Kramer|2
+2167|Jason Reitman|2
+2169|Katt Shea|1
+2170|Paulo Morelli|0
+2172|Jose Padilha|2
+2173|Erick Zonca|0
+2175|Breck Eisner|2
+2177|Joseph Ruben|2
+2178|Peter Lord|2
+2179|Jim Sheridan|2
+2181|Gary Goldman|2
+2182|Garth Jennings|2
+2184|Nick Cassavetes|2
+2185|Lana Wachowski|1
+2188|Roger Allers|2
+2189|Brian Koppelman|2
+2192|Aamir Khan|2
+2193|Ryan Murphy|2
+2194|Tony Goldwyn|2
+2198|Joe Carnahan|2
+2200|Karey Kirkpatrick|2
+2203|Rob McKittrick|0
+2206|Dennis Gansel|2
+2210|Ryan Fleck|2
+2211|Eran Riklis|2
+2216|David Jacobson|2
+2218|Craig Brewer|2
+2219|Rakeysh Omprakash Mehra|0
+2221|David Schwimmer|2
+2226|Andrew Morahan|2
+2227|Pan Nalin|0
+2231|Tommy Lee Jones|2
+2232|Mario Van Peebles|2
+2234|Ira Sachs|2
+2238|Roger Vadim|2
+2239|Farah Khan|1
+2241|Peter Mullan|2
+2243|Susan Seidelman|1
+2246|Jared Hess|2
+2247|Dito Montiel|2
+2251|Karyn Kusama|1
+2252|Mark Waters|2
+2256|Dany Boon|2
+2259|Scott Frank|2
+2260|D.J. Caruso|2
+2262|Jesse Dylan|2
+2263|Steve Rash|2
+2264|Joe Nussbaum|2
+2268|Olivier Assayas|2
+2270|Frank Miller|2
+2273|Martin McDonagh|2
+2276|Jon M. Chu|2
+2277|Jaume Balaguero|2
+2278|Christian Alvart|2
+2284|Joel Zwick|2
+2286|Michael Cimino|2
+2287|Nikolai Mullerschon|2
+2290|William Arntz|2
+2292|Greg Mottola|2
+2295|Troy Duffy|2
+2300|Adam Brooks|2
+2303|Dave Meyers|0
+2310|Allan Moyle|2
+2314|Marc Rocco|2
+2315|Hector Babenco|2
+2321|Jeff Wadlow|2
+2322|Joe Chappelle|2
+2325|Bruce McDonald|2
+2326|Asif Kapadia|0
+2327|Jerrold Freedman|2
+2329|Mark Herman|0
+2335|Warren Beatty|2
+2336|Nelson McCormick|2
+2337|Nicholas Hytner|2
+2338|Scott Derrickson|2
+2346|Pierre Morel|2
+2347|Ruggero Deodato|2
+2349|Jackie Chan|2
+2350|Adam McKay|2
+2356|Norman Taurog|2
+2358|Taika Waititi|2
+2359|Gabriele Salvatores|0
+2360|Kevin Yagher|0
+2366|Michael McCullers|2
+2372|Jan Kounen|2
+2373|Paolo Sorrentino|2
+2374|Enzo Barboni|0
+2375|Chris Carter|2
+2376|Charles S. Dutton|2
+2377|Tarsem Singh|2
+2379|Charles Shyer|2
+2381|Kenneth Johnson|2
+2382|Danny Leiner|2
+2387|Antony Hoffman|2
+2388|Penelope Spheeris|0
+2389|Stephen Surjik|2
+2392|Matteo Garrone|2
+2395|Ari Folman|2
+2396|Peter Sehr|2
+2400|Atom Egoyan|2
+2401|Kornel Mundruczo|0
+2404|Jean-Pierre Dardenne|2
+2409|Brillante Mendoza|2
+2410|Nuri Bilge Ceylan|2
+2413|Mary Lambert|1
+2414|Victor Salva|2
+2415|Lexi Alexander|0
+2418|Ruben Ostlund|2
+2427|Kiyoshi Kurosawa|2
+2429|James Toback|2
+2431|Kelly Reichardt|0
+2434|Glenn Ficarra|2
+2438|Stephen T. Kay|2
+2439|Sam Weisman|2
+2441|Clive Barker|2
+2442|John Bonito|2
+2444|Jean-Francois Richet|0
+2447|Prachya Pinkaew|2
+2449|William Dear|2
+2450|Michael Spierig|2
+2453|Nicole Holofcener|1
+2455|Jeff Tremaine|2
+2457|Michael Lembeck|2
+2458|Jonathan Levine|2
+2459|Kelly Asbury|2
+2460|Oliver Parker|2
+2461|Daisy von Scherler Mayer|1
+2462|Tom Vaughan|2
+2463|David Moreau|2
+2466|Bob Dolman|2
+2467|James Gunn|2
+2468|Patricia Birch|1
+2469|Bruce Hunt|2
+2470|Thomas Bezucha|2
+2472|Corey Yuen Kwai|0
+2473|Christopher Cain|2
+2474|Deran Sarafian|2
+2475|Ernest R. Dickerson|2
+2477|Arne Glimcher|0
+2478|Tony Randel|2
+2479|Rachel Talalay|1
+2481|Bryan Spicer|2
+2482|Tom DiCillo|2
+2483|Dwight H. Little|0
+2484|Les Mayfield|0
+2485|Jack Arnold|2
+2486|Wolfgang Reitherman|2
+2489|Eddie Murphy|2
+2490|Jodie Foster|1
+2493|David S. Ward|2
+2494|Christian Duguay|2
+2495|Jean-Claude Van Damme|2
+2496|Gregor Jordan|2
+2498|Josef Fares|0
+2500|Lesli Linka Glatter|1
+2502|John Stockwell|2
+2504|Rian Johnson|2
+2505|Brett Leonard|0
+2506|Steve Oedekerk|2
+2508|Greg Marcks|2
+2509|Todd Phillips|2
+2510|James Wong|2
+2513|Gil Kenan|2
+2514|Mark Mylod|2
+2515|Sally Potter|1
+2517|Hart Bochner|2
+2518|Randall Wallace|2
+2519|Robert Schwentke|2
+2521|Mamoru Oshii|2
+2523|Frank Coraci|2
+2524|Larry Clark|2
+2525|Paul Brickman|2
+2526|Jeff Schaffer|2
+2527|Amy Heckerling|1
+2528|Mark Romanek|2
+2529|Andrea Arnold|1
+2531|Morgan Spurlock|2
+2532|Steve Beck|2
+2535|Christian Volckman|2
+2536|Neil Marshall|2
+2537|John Cornell|2
+2538|Sheldon Lettich|2
+2540|Stanley Tong|2
+2541|Anthony Waller|2
+2542|Ash Brannon|2
+2544|Glenn Gordon Caron|2
+2547|John Bruno|2
+2548|David Nutter|0
+2549|Peter Cattaneo|2
+2550|John Fortenberry|2
+2551|Gilbert Adler|2
+2552|George Armitage|0
+2553|Hugh Hudson|2
+2554|John Pasquin|2
+2555|Kirk Wong|2
+2556|Tinto Brass|2
+2557|Bharat Nalluri|2
+2558|Michael Wadleigh|2
+2559|Daniel Lee|2
+2560|Robert Clouse|2
+2561|Bruce Lee|2
+2562|Toyoo Ashida|0
+2563|Vincent Gallo|2
+2564|Stephen Chow|2
+2565|Rawson Marshall Thurber|0
+2567|Henry Selick|2
+2568|Peter Howitt|2
+2569|Tamra Davis|1
+2570|Mark Osborne|2
+2574|Charles Dance|2
+2575|Bernard Rose|2
+2576|Alex de la Iglesia|0
+2579|Robert Harmon|2
+2580|William Malone|2
+2585|Mort Nathan|2
+2586|Alfonso Arau|2
+2589|Brian Yuzna|2
+2590|Bruce Malmuth|2
+2592|Chris Koch|2
+2595|Gillian Armstrong|1
+2596|Tom Hanks|2
+2598|Chris Noonan|2
+2599|Raja Gosnell|2
+2600|Rintaro|2
+2601|Annabel Jankel|0
+2603|Gary Sinise|2
+2604|David Mirkin|2
+2605|Justin Lin|0
+2606|Andrei Konchalovsky|2
+2607|Steven Seagal|2
+2609|Don Coscarelli|2
+2617|Andy Fickman|2
+2618|Glen Morgan|2
+2620|Sylvain Chomet|0
+2621|Tony Bill|2
+2622|Peter Faiman|2
+2626|Dominic Sena|2
+2627|William Lustig|2
+2628|Jim Sonzero|2
+2630|Burr Steers|0
+2631|Niall Johnson|2
+2632|Nicole Kassell|1
+2634|Alex Cox|0
+2635|Andy Garcia|2
+2636|Doug Lefler|0
+2639|Neil LaBute|2
+2640|Pawel Pawlikowski|0
+2642|Forest Whitaker|2
+2646|Steve Miner|2
+2648|Joseph Zito|0
+2649|Danny Steinmann|2
+2651|Marco Brambilla|2
+2653|Troy Miller|2
+2654|Ben Garant|2
+2656|Stewart Raffill|2
+2657|Richard Loncraine|2
+2660|Brian Robbins|2
+2662|John Warren|2
+2664|Alister Grierson|0
+2666|Chris Rock|2
+2667|Adam Rifkin|2
+2670|David S. Goyer|2
+2671|Steve Pink|2
+2672|Daniele Luchetti|0
+2673|Alexandre Aja|2
+2674|Greg Coolidge|2
+2676|Bob Odenkirk|2
+2678|Jamie Babbit|1
+2680|Jaume Collet-Serra|2
+2683|John R. Leonetti|2
+2684|Kinka Usher|0
+2685|Simon Brand|2
+2687|Alan Taylor|2
+2689|Brenda Chapman|1
+2692|Don Roos|2
+2696|Nicholas Stoller|2
+2697|Robert Mandel|2
+2699|Jamie Blanks|2
+2700|Andrew Bergman|0
+2701|Greg McLean|2
+2702|Robert Longo|2
+2706|Susan Stroman|1
+2707|Nicholaus Goossen|2
+2709|Rob Schmidt|0
+2710|Steve 'Spaz' Williams|0
+2711|John A. Davis|2
+2712|John N. Smith|2
+2715|Vondie Curtis-Hall|2
+2716|James Gartner|2
+2717|Lee Daniels|2
+2718|Leslie Greif|2
+2719|Barry W. Blaustein|2
+2722|Paul Mazursky|2
+2726|Shainee Gabel|0
+2727|Josh Gordon|2
+2729|Mike Clattenburg|2
+2730|Joe Roth|0
+2732|Miguel Arteta|2
+2733|Mennan Yapo|0
+2734|Danny Pang|2
+2735|John Whitesell|2
+2739|Matthew O'Callaghan|2
+2742|Geoffrey Sax|2
+2743|Stephen King|2
+2744|Mark Dindal|2
+2747|Gary Winick|2
+2758|Mick Garris|2
+2762|Courtney Solomon|2
+2766|Jack Sholder|2
+2767|Mike Marvin|2
+2768|Michael Gottlieb|2
+2769|Gary Trousdale|2
+2770|Tom Mankiewicz|2
+2771|Michael Damian|2
+2772|Bille Woodruff|0
+2773|Mark Helfrich|2
+2778|Olatunde Osunsanmi|0
+2779|Sammo Hung|2
+2780|Tommy O'Haver|2
+2784|Nicholas Mastandrea|2
+2786|Andrew Douglas|2
+2787|William Brent Bell|2
+2788|John Gulager|2
+2789|Akiva Schaffer|2
+2792|Andrew O'Connor|2
+2795|Julian Gilbey|2
+2802|Kwak Jae-yong|0
+2803|David Hillenbrand|2
+2805|Tom McLoughlin|2
+2806|Wilson Yip|2
+2812|Craig R. Baxley|0
+2813|Martha Coolidge|1
+2817|Christian Ditter|2
+2819|Albert Pyun|2
+2820|Rowdy Herrington|2
+2823|Jerry Paris|2
+2824|Kirk Jones|0
+2825|Don Michael Paul|2
+2826|Emilio Estevez|2
+2827|Fred Schepisi|2
+2830|Joshua Michael Stern|2
+2831|Sanaa Hamri|1
+2832|David Gordon Green|2
+2833|Alan Ball|2
+2834|Dean DeBlois|2
+2835|Mike Mitchell|2
+2836|Lee Unkrich|2
+2837|Robert Stevenhagen|0
+2839|Fran Rubel Kuzui|1
+2840|Antonia Bird|1
+2842|Lawrence Guterman|0
+2843|Mark DiSalle|2
+2845|Michael Haigney|2
+2852|Shim Hyung-Rae|2
+2856|Jeremy Haft|2
+2857|Jingle Ma|0
+2858|Sidney J. Furie|2
+2861|Barbra Streisand|0
+2867|Cheung Yam-Yim|0
+2868|Tom Holland|2
+2869|John Carl Buechler|2
+2870|Rob Hedden|2
+2871|Adam Marcus|2
+2874|Andrew Currie|2
+2879|Grant Heslov|2
+2880|Robert Iscove|2
+2881|Desmond Davis|2
+2882|Eric Schaeffer|2
+2883|Charles Herman-Wurmfeld|2
+2885|Mark A.Z. Dippe|0
+2886|Clyde Geronimi|2
+2887|Kevin Williamson|2
+2888|Chris Walas|2
+2889|Rod Daniel|0
+2890|Gordon Chan|0
+2892|Robert Kurtzman|2
+2894|Kang Je-gyu|0
+2896|Steve McQueen|2
+2898|Mic Rodgers|2
+2902|Franc Roddam|0
+2903|Giuseppe Tornatore|0
+2905|Ate de Jong|2
+2906|Phil Nibbelink|2
+2907|Jake Scott|2
+2909|Diane Keaton|1
+2913|Bruce Robinson|0
+2914|Marcus Raboy|0
+2915|Philip G. Atwell|2
+2917|Brian Henson|2
+2918|Kenny Ortega|2
+2919|Thomas Schlamme|2
+2923|Jessie Nelson|1
+2927|Sidney Poitier|2
+2929|Jennifer Flackett|1
+2930|Michael Patrick Jann|2
+2931|Louis Morneau|2
+2932|Mike Leigh|2
+2936|Jan Verheyen|0
+2939|Billy Crystal|2
+2940|Howard McCain|2
+2941|Mike Gabriel|2
+2944|Kevin Hooks|2
+2946|Tim Pope|2
+2947|Leon Gast|2
+2948|Wych Kaosayananda|0
+2949|Vicky Jenson|1
+2951|Damien O'Donnell|0
+2952|Xavier Koller|2
+2954|Matt Williams|2
+2956|Ralph Zondag|2
+2961|Boaz Davidson|2
+2962|Jim Drake|0
+2964|Luke Greenfield|2
+2965|Dario Argento|2
+2968|Chris Fisher|2
+2972|Kristian Levring|0
+2973|Louis C.K.|2
+2977|Boaz Yakin|2
+2980|Gregory Poirier|2
+2981|James Fargo|2
+2982|Buddy Van Horn|2
+2983|Ronald F. Maxwell|2
+2985|Willard Huyck|2
+2986|Bryan Bertino|2
+2989|James Goldstone|2
+2990|Tony Bancroft|2
+2991|Guy Ferland|2
+2992|Timo Vuorensola|2
+2993|Todd Solondz|2
+2996|Michael Almereyda|2
+2997|Hamilton Luske|2
+3003|Noah Baumbach|2
+3004|Joseph Kahn|2
+3006|Jonathan Liebesman|0
+3008|John Lee Hancock|2
+3009|Dennie Gordon|1
+3010|Jonathan Glazer|2
+3011|Pieter Jan Brugge|2
+3014|Daniel Petrie, Jr.|2
+3015|Karan Johar|2
+3016|Adrienne Shelly|1
+3017|Tom Brady|2
+3018|Paul Weiland|2
+3020|Bob Fosse|0
+3021|Sabbir Khan|0
+3025|Guillaume Canet|2
+3035|Celine Sciamma|1
+3039|Tom Kalin|2
+3040|Fritz Kiersch|2
+3048|Harry Hook|2
+3050|Wong Jing|2
+3052|Jimmy T. Murakami|0
+3054|Jeb Stuart|2
+3055|Steve Kloves|2
+3056|Eric Larson|2
+3062|Ben Sharpsteen|2
+3063|Jennifer Chambers Lynch|1
+3067|Stan Dragoti|2
+3068|Delbert Mann|2
+3071|Janet Greek|1
+3072|Robert Benton|2
+3073|Dan O'Bannon|2
+3076|Audrey Wells|1
+3077|Hettie MacDonald|0
+3080|Alastair Fothergill|2
+3081|Ted Berman|2
+3083|Esther Gronenborn|0
+3086|Peter Markle|2
+3088|Scott Glosserman|2
+3092|Cory Edwards|2
+3095|Baltasar Kormakur|2
+3097|Hal Needham|2
+3098|Nick Castle|2
+3099|Steven Shainberg|2
+3101|Jeff Kanew|2
+3102|Brian G. Hutton|2
+3105|Kazuhisa Takenochi|0
+3106|Hatsuki Tsuji|0
+3108|Tim Blake Nelson|2
+3109|Reginald Hudlin|2
+3110|Carroll Ballard|2
+3111|Carl Schultz|2
+3112|David Mamet|2
+3114|Vadim Perelman|0
+3115|John Polson|2
+3118|Omar Naim|0
+3129|Jay Russell|2
+3130|Justin Kerrigan|0
+3131|Sara Sugarman|1
+3132|Hendel Butoy|0
+3134|Yuen Woo-ping|0
+3143|Michael Powell|2
+3144|James Frawley|2
+3147|John Lafia|2
+3148|Jack Bender|2
+3151|Walt Becker|2
+3155|John Wayne|2
+3156|Patrick Read Johnson|2
+3161|Bill Forsyth|2
+3165|Robert Townsend|2
+3167|Mark Rosman|2
+3169|Don Mancini|2
+3172|Mikael Salomon|2
+3179|Godfrey Reggio|2
+3183|Gene Saks|2
+3184|Kevin Bray|2
+3185|Edward Burns|2
+3189|James Algar|2
+3191|Joel Gallen|2
+3199|Stephen Kessler|2
+3200|Mark Achbar|2
+3201|Jean-Marc Vallee|2
+3208|Mike Bigelow|2
+3209|Lou Adler|2
+3212|James Isaac|2
+3215|Luc Dardenne|2
+3217|Michael J. Bassett|2
+3219|Burt Kennedy|2
+3222|Bob Logan|0
+3224|Jacques Perrin|2
+3225|Aditya Chopra|0
+3226|Bruno Barreto|2
+3227|Farhad Mann|2
+3228|David M. Evans|2
+3230|Alan Metter|2
+3232|Hou Hsiao-hsien|2
+3233|Robert Budreau|2
+3235|Dominique Deruddere|0
+3236|Chris Delaporte|0
+3237|Bud Yorkin|2
+3238|William Peter Blatty|2
+3240|Lou Ye|0
+3241|Jeff Bleckner|2
+3244|Mel Damski|2
+3245|David Bowers|2
+3246|Mervyn LeRoy|2
+3247|Jack Gold|2
+3250|Phyllida Lloyd|1
+3251|Shinji Aramaki|0
+3252|Benny Chan|2
+3253|Kevin Rodney Sullivan|2
+3254|Jim Henson|2
+3255|Gary David Goldberg|2
+3256|Gary Goddard|2
+3258|Ericson Core|2
+3259|Marco Tullio Giordana|0
+3260|Christian Carion|2
+3261|Kazuaki Kiriya|2
+3262|Steven E. de Souza|2
+3267|Newt Arnold|2
+3271|Richard Tuggle|2
+3273|Bruno Nuytten|2
+3280|Shaad Ali|0
+3286|Tom Hooper|2
+3289|Shane Meadows|2
+3290|Kirk De Micco|2
+3291|Imtiaz Ali|2
+3293|Mark Jones|2
+3294|Kurt Neumann|2
+3298|Alan Myerson|2
+3301|Gabriel Axel|2
+3302|Stephen Hillenburg|2
+3303|Martin Rosen|2
+3304|Teddy Chan|0
+3306|Andrew Sipes|2
+3307|Jocelyn Moorhouse|1
+3308|David Hogan|2
+3310|Peter Bonerz|2
+3312|Adam Green|2
+3316|David Hackl|2
+3317|Craig Mazin|2
+3322|Dan Aykroyd|2
+3325|Sam Wanamaker|2
+3329|John Payson|2
+3331|George Tillman, Jr.|2
+3332|Gregory Widen|2
+3336|Jonas Akerlund|0
+3339|Scott Spiegel|2
+3343|Michael Dowse|2
+3344|Laetitia Colombani|0
+3348|Demian Lichtenstein|2
+3350|Bill Paxton|2
+3352|Vincent Ward|0
+3360|Marco Schnabel|2
+3361|Dave Filoni|0
+3362|Peter Sollett|2
+3364|Justin Chadwick|2
+3368|Seth Gordon|2
+3371|Douglas Aarniokoski|0
+3372|John Ottman|2
+3378|Jimmy Hayward|2
+3380|George Scribner|2
+3382|Mark Pavia|0
+3384|Reb Braddock|0
+3386|Shane Acker|2
+3387|Sergey Bodrov|0
+3388|Jeff Nichols|2
+3390|Reggie Rock Bythewood|2
+3397|George Hickenlooper|2
+3399|Anees Bazmee|2
+3400|P. Vasu|2
+3402|Jacob Aaron Estes|0
+3403|Neal Israel|2
+3404|Frank Lloyd|2
+3409|Charles Martin Smith|2
+3415|Natalie Portman|1
+3418|Haile Gerima|2
+3419|Aleksey German Jr|0
+3421|Ferzan Ozpetek|2
+3423|Patrick Tatopoulos|2
+3426|Safy Nebbou|0
+3428|Steve Boyum|2
+3432|Xavier Beauvois|2
+3435|Isao Takahata|2
+3436|Alan Rudolph|2
+3442|Yoji Yamada|2
+3444|Billy Bob Thornton|2
+3445|Sam Firstenberg|2
+3446|Ed Harris|2
+3450|John Duigan|2
+3451|Stacy Title|0
+3455|Karel Reisz|2
+3464|Thom Eberhardt|2
+3466|Alejandro Monteverde|0
+3469|Jim Malone|2
+3478|Fred Wolf|2
+3485|Paco Plaza|2
+3487|Paddy Breathnach|2
+3489|Jessy Terrero|0
+3491|Anthony Perkins|2
+3502|Tommy Chong|2
+3505|Elaine May|1
+3506|Franco Amurri|0
+3512|Liz Friedlander|1
+3513|Lance Hool|2
+3516|Richard Pearce|2
+3517|Saul Dibb|2
+3523|Todd Stephens|2
+3538|Anthony Bell|2
+3540|Toa Fraser|0
+3541|Gina Prince-Bythewood|1
+3548|Noam Murro|0
+3549|Frank Pierson|2
+3550|Charles Ferguson|2
+3554|Marcos Siega|2
+3558|Makoto Shinkai|2
+3560|Robert C. Cooper|2
+3562|Alex Gibney|2
+3564|Art Linson|2
+3567|Ric Roman Waugh|2
+3572|Marcel Langenegger|2
+3577|Doug Sweetland|0
+3579|Philippe Le Guay|2
+3580|Chris Williams|2
+3582|Noel Clarke|2
+3583|David Bruckner|2
+3584|Gary Rydstrom|2
+3589|Jon Kasdan|2
+3590|Jeffrey Blitz|2
+3593|Michael Corrente|2
+3594|Laurie Collyer|0
+3597|David Ross|2
+3598|Christine Jeffs|1
+3600|Robert B. Weide|0
+3604|Charles Stone III|2
+3613|Clayton Jacobson|2
+3615|Gavin O'Connor|2
+3617|Walter Murch|2
+3618|Tim McCanlies|2
+3625|Michael Showalter|2
+3627|Jesse Peretz|0
+3629|Aaron Russo|2
+3631|Stuart Townsend|2
+3633|Menhaj Huda|0
+3638|Joshua Seftel|2
+3640|Brian Dannelly|2
+3643|Robert Moresco|0
+3652|Bill Kroyer|0
+3654|Guy Maddin|2
+3655|Bernie Goldmann|0
+3657|Zacharias Kunuk|2
+3658|Phil Roman|2
+3661|David Von Ancken|2
+3664|Simon Hunter|2
+3665|Nanette Burstein|1
+3666|Kent Alterman|2
+3672|Paul Bartel|2
+3674|Jeffrey Nachmanoff|2
+3678|Larry Bishop|2
+3683|Tomas Alfredson|2
+3690|Nikolay Lebedev|2
+3691|Jon Hurwitz|2
+3696|Jeff Lau|0
+3697|David Seltzer|2
+3700|Jun Falkenstein|1
+3702|Chuck Sheetz|2
+3705|Nathan Frankowski|0
+3708|Amy Berg|0
+3709|Franc. Reyes|0
+3710|Christopher Guest|2
+3712|Robert Greenwald|2
+3713|Tim Fywell|0
+3714|Seth Kearsley|2
+3718|Phillip Borsos|0
+3723|Olivier Megaton|2
+3726|Cagan Irmak|0
+3732|DJ Pooh|2
+3733|Damon Dash|2
+3744|Denzel Washington|2
+3746|Rolf de Heer|0
+3747|Dylan Kidd|2
+3752|Douglas Sirk|2
+3753|William Lau|2
+3754|Luca Guadagnino|2
+3757|Franck Khalfoun|2
+3760|Joby Harold|0
+3761|Jody Hill|2
+3763|Agustin Diaz Yanes|0
+3764|Jake Paltrow|2
+3765|Andrey Kravchuk|2
+3766|Chris Paine|0
+3767|James Watkins|0
+3772|Sean Anders|2
+3776|Kyle Newman|2
+3787|Karen Moncrieff|1
+3790|Jeremy Saulnier|0
+3796|Matthew Ryan Hoge|0
+3808|Declan Lowney|2
+3810|Michael Addis|0
+3813|Felix Herngren|2
+3814|Rolf Losansky|0
+3815|Anthony Pasquale Giordano|0
+3816|Nikolaj Arcel|2
+3819|Tay Garnett|2
+3820|Chris Bell|0
+3825|Christophe Van Rompaey|0
+3826|Jay Oliva|2
+3834|Steve Gordon|2
+3836|Savage Steve Holland|2
+3837|Susannah Grant|1
+3840|Morton DaCosta|0
+3841|Mabrouk El Mechri|2
+3842|Peggy Holmes|1
+3846|Daniel Monzon|2
+3850|Will Finn|2
+3851|Marek Kanievska|0
+3852|Alan Shapiro|2
+3870|Christian Vincent|2
+3873|Kim Chapiron|0
+3876|Eric Lartigau|0
+3878|Doug Atchison|2
+3880|Andy Wolk|2
+3884|Lang Elliott|0
+3885|Albert Magnoli|0
+3886|Harry Winer|2
+3896|Baillie Walsh|0
+3898|Kieth Merrill|2
+3903|John Erick Dowdle|0
+3905|Ana Kokkinos|1
+3906|Lisa Cholodenko|1
+3908|John Glenn|2
+3909|S.R. Bindler|0
+3913|Steven Goldmann|2
+3915|Paul Andrew Williams|2
+3918|Michael Chapman|2
+3920|Hal Haberman|0
+3923|William A. Graham|2
+3931|Nick Broomfield|2
+3939|Arie Posin|0
+3940|Mike Tollin|2
+3946|Michael Schultz|2
+3949|Rodrigo Garcia|2
+3954|Ben Stassen|2
+3956|Christian Robinson|0
+3958|Geoff Burrowes|0
+3960|Ryoo Seung-wan|2
+3962|Diane English|1
+3963|Clark Gregg|2
+3967|Deb Hagan|1
+3969|John Turturro|2
+3970|Randall Miller|2
+3974|Lloyd Kaufman|2
+3976|Dave Bullock|2
+3977|Michael Mayer|2
+3981|Sean McNamara|2
+3990|Feng Xiaogang|0
+3991|James Marsh|2
+3992|Richard Martin|2
+3993|Bart Freundlich|2
+3995|Alfredo De Villa|2
+3998|Mamoru Hosoda|2
+3999|A.R. Murugadoss|2
+4000|Tarun Mansukhani|0
+4001|Ashutosh Gowariker|2
+4002|Daniel Alfredson|2
+4003|Jesse V. Johnson|2
+4011|Fyodor Bondarchuk|2
+4012|Eric Red|2
+4029|Nacho Vigalondo|2
+4032|Fred Savage|2
+4036|Hayley Cloake|1
+4037|Anil Mehta|0
+4038|Shimit Amin|0
+4039|Siddharth Anand|2
+4040|Matthew Cole Weiss|2
+4041|Delmer Daves|2
+4045|Gary Chapman|2
+4046|Simon Shore|2
+4049|Elizabeth Allen Rosenbaum|1
+4051|Vijay Krishna Acharya|0
+4052|Sanjay Gadhvi|0
+4054|Gregory Jacobs|2
+4056|John Curran|2
+4060|Halder Gomes|0
+4075|Anthony Leondis|0
+4077|Charles Guard|2
+4078|Adam Rapp|0
+4083|Steve James|2
+4085|Dylan Avery|0
+4086|Henry Alex Rubin|0
+4088|Francois Girard|2
+4091|Adam Del Deo|2
+4092|Felix Enriquez Alcala|2
+4095|Kenneth Lonergan|0
+4097|Darnell Martin|1
+4098|Joss Whedon|2
+4102|David Leland|2
+4103|George C. Wolfe|2
+4106|Shane Carruth|2
+4111|William Maher|0
+4113|Preston A. Whitmore II|2
+4116|Marilyn Agrelo|1
+4118|Brendan Malloy|2
+4119|Michele Placido|2
+4123|Ram Gopal Varma|2
+4124|Stewart Hendler|2
+4125|Jim Kouf|2
+4132|Tim Johnson|2
+4138|David E. Talbert|2
+4142|John Schultz|2
+4145|Cy Endfield|0
+4147|Alex Kendrick|2
+4150|Norton Virgien|2
+4154|Tommy Wirkola|2
+4157|Yojiro Takita|2
+4158|Eduardo Sanchez|2
+4160|Abbas Tyrewala|0
+4175|Vladimir Grammatikov|0
+4179|Dave McKean|2
+4185|William Phillips|2
+4188|Jonas Elmer|0
+4193|Rohit Shetty|0
+4201|F. Javier Gutierrez|0
+4208|Paul Gross|2
+4215|Charles Sturridge|2
+4219|Curt Geda|0
+4220|Dick Sebast|2
+4224|Michael O. Sajbel|2
+4225|Claire Denis|1
+4228|Sterling Van Wagenen|0
+4230|Abbas Kiarostami|0
+4231|Scott Wiper|2
+4235|Thomas Gilou|2
+4238|Gonzalo Lopez-Gallego|2
+4240|Burt Reynolds|2
+4245|Q. Allan Brocka|2
+4249|Barbara Kopple|1
+4252|Vishal Bhardwaj|2
+4255|Maiwenn|1
+4263|John Crowley|2
+4265|Farhan Akhtar|2
+4268|Mark Illsley|2
+4269|Billy Corben|2
+4277|Daniel Cohen|0
+4278|Lindsay Anderson|2
+4286|Erik Poppe|2
+4287|Burny Mattinson|0
+4289|Soi Cheang|2
+4291|Steven Sawalich|0
+4292|John Hough|2
+4294|Andrew Birkin|2
+4295|David Lickley|2
+4297|Yavuz Turgul|2
+4299|Andy Cadiff|2
+4301|Eric Styles|2
+4302|Scott Caan|0
+4304|Rupert Wyatt|0
+4306|Steve Carver|2
+4313|Steve Trenbirth|0
+4320|Steve Anderson|2
+4328|Josh Becker|2
+4332|Marc Abraham|2
+4335|Bruce Timm|0
+4342|Matt Aselton|2
+4344|Park Kwang-hyun|0
+4352|Alison Eastwood|1
+4354|Daniel Krige|0
+4364|Harry Elfont|0
+4367|Jordan Brady|2
+4385|Ben Burtt|2
+4389|Maria Ripoll|1
+4397|Hideaki Anno|2
+4398|Pixote Hunt|0
+4404|Michel Hazanavicius|2
+4405|Christopher Scott Cherot|2
+4410|Morten Tyldum|2
+4411|Ella Lemhagen|0
+4415|Thor Freudenthal|2
+4422|Christopher Reeve|2
+4427|Risa Bramon Garcia|1
+4433|Edwin L. Marin|2
+4436|Yung Chang|0
+4438|Aaron Woolf|0
+4440|Katsuyuki Motohiro|0
+4442|Jong-seok Yoon|0
+4455|Kevin Allen|2
+4470|Patrick Alessandrin|0
+4475|Hiroyuki Morita|0
+4479|David Weaver|2
+4483|Whit Stillman|2
+4487|Paul Feig|2
+4497|Peter Glenville|2
+4502|David Charhon|0
+4504|Tyler Perry|2
+4512|Carlo Carlei|2
+4524|Rob Letterman|0
+4525|Doug Ellin|2
+4538|Greg MacGillivray|2
+4541|David Douglas|2
+4552|David Winning|2
+4555|Paul Fenech|0
+4558|Armand Mastroianni|2
+4561|Hans Canosa|0
+4565|Paul Abascal|0
+4567|Daniel G. Karslake |0
+4570|Scott Prendergast|2
+4574|Frank Perry|2
+4576|Chris Gorak|2
+4580|Gregg Godfrey|0
+4581|Conor McMahon|0
+4586|C. Jay Cox|2
+4593|John Swanbeck|2
+4599|Susan Montford|1
+4602|Mike Slee|0
+4604|Mani Ratnam|2
+4607|Christian E. Christiansen|2
+4609|Steve De Jarnatt|0
+4611|Jerry Lewis|2
+4617|Brian Goodman|2
+4645|Raman Hui|0
+4646|William Castle|2
+4648|John H. Lee|2
+4651|C. B. Harding|2
+4654|Alki David|2
+4655|James Sbardellati|0
+4669|Michael Salomon|0
+4682|Henrik Ruben Genz|0
+4690|Anurag Kashyap|2
+4692|Mohit Suri|2
+4696|Frank Henenlotter|0
+4700|Rasmus A. Sivertsen|0
+4709|Reshef Levy|0
+4710|Bryan Gunnar Cole|0
+4711|Lasse Aberg|0
+4712|Mark James|2
+4730|Kirby Dick|2
+4732|Lu Chuan|2
+4735|Mark Fergus|2
+4738|Doug McHenry|2
+4752|Don McKellar|2
+4754|Harmony Korine|0
+4763|Rick Famuyiwa|0
+4766|Phedon Papamichael|2
+4768|Mark Tarlov|2
+4779|Steven R. Monroe|2
+4781|Leslie Small|2
+4791|David Raynr|0
+4818|Sean McGinly|2
+4822|Michael Gornick|2
+4823|Philippe Caland|0
+4833|Yoon Je-kyoon|2
+4838|Gilles Paquet-Brenner|2
+4839|Stig Bergqvist|0
+4840|Zoya Akhtar|0
+4841|Priyadarshan|2
+4844|Tony Jaa|2
+4850|Patrick Hasburgh |0
+4854|Scott Silver|2
+4863|Milco Mancevski|0
+4864|Joel Hopkins|2
+4878|Philipp Stolzl|2
+4883|Hong Sang-soo|2
+4886|Lance Mungia|0
+4896|Walter Lang|2
+4905|Mark Levin|2
+4911|Cate Shortland|1
+4913|John Hillcoat|2
+4917|Luis Valdez|2
+4921|Alexander Sokurov|0
+4922|Mitch Davis|2
+4924|Kurt Hale|2
+4929|Scott S. Anderson|2
+4931|Bruce Pittman|2
+4935|Robin Budd|0
+4945|Francine McDougall|1
+4947|Sergio Castellitto|2
+4950|Gabriel Riva Palacio Alatriste|0
+4952|Shinji Higuchi|2
+4954|Kim Henkel|2
+4959|Kunihiko Yuyama|0
+4966|Mans Marlind|2
+4971|Will Vinton|0
+4972|Jorge Blanco|2
+4973|Aristomenis Tsirbas|0
+4980|Mansoor Khan|2
+4990|Laurent Baffie|0
+5002|Glen Pitre|2
+5013|Casper Andreas|2
+5022|John Stainton|2
+5028|Majid Majidi|2
+5030|Dante Lam|2
+5031|Martha Fiennes|0
+5037|Chu Yen-ping|0
+5041|Joan Freeman|1
+5046|Stephen Gyllenhaal|2
+5055|Kevin Dunn|0
+5069|Philippe Falardeau|2
+5072|Ariel Vromen|2
+5079|Jim Mickle|2
+5084|Gordon Hessler|2
+5086|Gillo Pontecorvo|2
+5090|Krishna D.K.|0
+5097|Steve Shill|2
+5098|Charles Grosvenor|2
+5101|Joshua Logan|2
+5106|Joan Micklin Silver|1
+5107|Jalil Lespert|0
+5108|Manoel de Oliveira|0
+5116|Eric Lavaine|0
+5122|Duncan Jones|2
+5128|Lam Nai-Choi|0
+5139|Stuart Millar|2
+5149|Lea Pool|1
+5159|Clarence Brown|2
+5164|Neill Blomkamp|2
+5171|Jon Blair|0
+5172|Joe Alves|2
+5176|David Clark|0
+5179|Rob Pritts|0
+5181|Des McAnuff|2
+5186|Richard Glatzer|0
+5187|Jill Sprecher|1
+5204|Jack Conway|2
+5206|Erik Van Looy|2
+5207|James Bobin|0
+5223|Thanasis Papathanasiou|2
+5226|Meiert Avis|0
+5227|Will Gluck|2
+5229|Vladimir Bortko|0
+5242|Kevin Tenney|0
+5256|Brad Furman|2
+5260|Raymond Jafelice|0
+5267|Sacha Gervasi|2
+5277|Benson Lee|0
+5282|Michael Cuesta|2
+5286|Gerard Stembridge|0
+5289|Brett Simon|0
+5295|Stanley Tucci|2
+5298|Eric Nicholas|0
+5303|Eric Karson|2
+5315|Jonathan R. Betuel|0
+5329|Jon Purdy|0
+5339|Bae Hyeong-jun|2
+5346|Lee Han|0
+5347|Kang Hyeong-Cheol|0
+5352|Dennis Iliadis|2
+5358|Harry Basil|2
+5363|Rick Bieber|2
+5370|Dan Ireland|2
+5376|Azazel Jacobs|2
+5377|Lance Rivera|2
+5383|Luca Bercovici|2
+5384|Larry Cohen|2
+5385|Paolo Virzi|2
+5390|Allan Arkush|2
+5406|Madonna|1
+5408|Annette Haywood-Carter|1
+5415|Robert Kenner|2
+5416|Andre De Toth|0
+5424|Lenny Abrahamson|2
+5427|Lynne Ramsay|1
+5439|Anthony Hopkins|2
+5442|Marlon Brando|2
+5447|Joseph H. Lewis|0
+5456|Allan Dwan|2
+5468|Wayne Beach|2
+5469|Richard Dutcher|2
+5470|Peter Cornwell|2
+5471|Kim Han-min|2
+5475|Robert D. Webb|2
+5500|Jehane Noujaim|1
+5501|Darren Stein|2
+5510|Alan Alda|2
+5516|John R. Cherry III|0
+5528|James Kent|2
+5541|Paul Sabella|2
+5548|Howard Storm|2
+5552|Daniel Barnz|2
+5554|Christopher Erskin|2
+5555|Bryan Johnson|2
+5556|Jeff Pollack|2
+5557|Del Shores|0
+5568|Michael Dinner|2
+5573|Ralph S. Singleton|2
+5579|Craig Clyde|2
+5580|Tom Savini|2
+5599|Eric Toledano|0
+5600|Kevin Carlin|0
+5601|Alex Zamm|2
+5622|Rory Kelly|0
+5628|Tom Gustafson|0
+5634|Ettore Scola|2
+5638|Mark Griffiths|2
+5645|Juan Jose Campanella|2
+5660|Tran Anh Hung|2
+5670|Atsuji Shimizu|0
+5674|Hoyt Yeatman|0
+5681|Kim Dong-won|2
+5684|Kabir Khan|0
+5685|Rohan Sippy|0
+5686|Goldie Behl|0
+5688|Rajkumar Hirani|0
+5696|Abbas Alibhai Burmawalla|2
+5705|Neeraj Pandey|0
+5709|Bill L. Norton|0
+5717|Brian Sloan|2
+5727|Armando Iannucci|2
+5733|Michael Sucsy|2
+5736|Sergey Snezhkin|0
+5742|Peter Billingsley|2
+5745|Ruben Fleischer|2
+5747|Jerry Rees|0
+5750|Te-Sheng Wei|0
+5752|Vikram Kumar|0
+5753|Vikram Bhatt|2
+5757|Christian Charles|0
+5759|Jean-Claude Brisseau|2
+5760|S. Shankar|2
+5764|Dewey Nicks|0
+5772|Mark Tonderai|2
+5775|Selva|0
+5776|K. V. Anand|0
+5781|Anubhav Sinha|0
+5784|Giovanni Veronesi|0
+5785|Borja Cobeaga|2
+5791|Akiyuki Shinbo|2
+5799|Bela Tarr|2
+5800|Brian Grant|2
+5801|Sriram Raghavan|0
+5802|Soham Shah|0
+5808|David Gleeson|0
+5812|Mark Webber|2
+5815|Aleksi Makela|0
+5817|Robert Butler|2
+5818|John Ireland|2
+5820|Ray Griggs|2
+5821|Bobcat Goldthwait|2
+5826|Robby Grewal|0
+5827|Thomas K. Avildsen|0
+5828|Gilles Lellouche|2
+5830|Casey La Scala|0
+5839|Rusty Cundieff|2
+5843|Jack Neo|0
+5848|Vivek Agnihotri|0
+5856|Keith Gordon|0
+5863|Martin Lawrence|2
+5864|Robert Young|2
+5870|Pierre Coffin|2
+5872|Vipul Amrutlal Shah|2
+5882|Maria Maggenti|1
+5885|Indra Kumar|2
+5889|Al Reinert|2
+5894|Kemp Curly|0
+5899|Karen Oganesyan|0
+5905|Anurag Basu|2
+5906|Harry Baweja|2
+5907|David Dhawan|2
+5908|Ketan Mehta|2
+5912|Sebastian Cordero|0
+5916|Joseph Kosinski|2
+5919|Derek Jarman|0
+5931|Jose Luis Cuerda|2
+5934|Robert Florey|2
+5938|Henry Bromell|2
+5939|Pradeep Sarkar|0
+5947|Satish Kaushik|0
+5949|Nicolas Lopez|2
+5951|Nikita Mikhalkov|2
+5957|Apoorva Lakhia|2
+5963|Alex Rivera|2
+5975|David Atkins|2
+5979|Jaideep Sen|0
+5987|Chris Eyre|0
+6000|Janos Szasz|0
+6003|Michael Goldenberg|2
+6020|Aleksey Balabanov|2
+6032|Vladimir Menshov|0
+6034|Jack Fisk|2
+6035|Dean O'Flaherty|2
+6036|James Dearden|2
+6040|Ed Solomon|2
+6041|Julie Davis|1
+6049|Sarah Gavron|0
+6053|Adam Elliot|2
+6054|Tom Laughlin|2
+6064|Gabriel Range|0
+6073|Cary Fukunaga|2
+6078|Michael Karbelnikoff|2
+6079|Raja Menon|0
+6088|Lynne Littman|0
+6100|Roberts Gannaway|2
+6104|George T. Miller|0
+6107|Stan Winston|2
+6113|Paul Aaron|2
+6121|Marcus Dunstan|2
+6137|David Webb Peoples|2
+6140|Lauren Lazin|0
+6156|Stephen Belber|2
+6167|Dagen Merrill|2
+6171|Paul Cox|0
+6174|Rajkumar Santoshi|0
+6184|Hampton Fancher|2
+6185|Martin Davidson|2
+6209|Roar Uthaug|2
+6216|Won Shin-Yeon|0
+6224|Damian Lee|2
+6232|Daniel Stern|2
+6239|Floyd Mutrux|2
+6241|Dana Lustig|1
+6243|Eran Creevy|0
+6254|Phillip J. Roth|2
+6256|Michael Miller|2
+6259|Yoichi Sai|0
+6273|Luigi Cozzi|2
+6274|Max Mayer|2
+6276|Oley Sassone|0
+6279|Lech Majewski|2
+6280|Ron Krauss|2
+6309|Claudio Cupellini|0
+6325|Howard Hughes|2
+6326|Denis Villeneuve|2
+6329|John Stronach|2
+6342|Monte Hellman|2
+6362|Vladimir Mirzoyev|0
+6369|Frank De Felitta|2
+6375|Udayan Prasad|2
+6377|Jean-Francois Laguionie|0
+6382|Rich Correll|2
+6383|Richard Rich|2
+6385|Greg Berlanti|2
+6390|Anurag Singh|0
+6405|Lee Hirsch|0
+6407|Prabhu Deva|2
+6412|William Nigh|0
+6418|Bruce Neibaur|2
+6423|Phil Lord|0
+6425|Drew Barrymore|1
+6427|Kevin Greutert|2
+6431|Neil Abramson|2
+6436|Masayuki|0
+6438|Sam Liu|0
+6444|Scott Stewart|0
+6450|John Luessenhop|2
+6452|William Phelps|0
+6457|Luther Reed|2
+6460|Drew Goddard|2
+6466|Alan Johnson|2
+6481|Ricky Gervais|2
+6491|Louie Psihoyos|0
+6508|Stephen Milburn Anderson|0
+6511|Jonathan Teplitzky|0
+6512|Michael Dougherty|2
+6536|Todd Graff|2
+6539|Puri Jagannath|2
+6546|Ulu Grosbard|2
+6556|Samuel Bayer|2
+6558|Erik Gandini|0
+6563|Deborah Scranton|1
+6566|Herschell Gordon Lewis|2
+6571|Bettina Oberli|1
+6572|Hal Hartley|2
+6580|Felix Van Groeningen|2
+6603|Raymond De Felitta|2
+6605|Phil Traill|2
+6606|Shoaib Mansoor|0
+6607|Lynn Shelton|1
+6611|Douglas Cheek|0
+6612|Dan St. Pierre|0
+6617|Vishnuvardhan|0
+6620|Bhaskar|2
+6624|S.S. Rajamouli|2
+6627|Jan Gissberg|0
+6629|Ken Wiederhorn|0
+6632|Oren Peli|2
+6633|Massy Tadjedin|0
+6639|James Komack|2
+6643|Hanna Skold|0
+6646|Marcel Sarmiento|2
+6650|Marc H. Simon|2
+6654|Asia Argento|1
+6665|Lee Sang-gi|0
+6666|Robert Englund|2
+6672|Scott Mann|0
+6682|Yukihiko Tsutsumi|2
+6697|Corneliu Porumboiu|2
+6700|Marco Bellocchio|2
+6708|Chuck Parello|0
+6713|Charlie Nguyen|2
+6716|Havana Marking|1
+6717|Jon Hess|0
+6745|Sudz Sutherland|0
+6758|K. Selvaraghavan|2
+6759|Tate Taylor|2
+6764|Chatrichalerm Yukol|2
+6765|Peter Sohn|2
+6788|Jennifer Baichwal|1
+6794|Prem Soni|0
+6800|Scott McGehee|2
+6803|Linda Mendoza|0
+6805|Paul Schneider|2
+6819|Marius Balchunas|2
+6820|Rick Jacobson|0
+6827|David Greenwalt|2
+6843|Scott Sanders|2
+6849|Elliott Hong|0
+6858|Robert Dalva|2
+6860|Barry Jenkins|2
+6866|Herman Yau|0
+6867|Rick Reinert|0
+6868|Jeff Broadstreet|0
+6881|James D. Stern|2
+6891|Abdul Malik Abbott|2
+6897|Michael G. Bartlett|0
+6898|Shawn Ku|0
+6901|Cathy Garcia-Molina|1
+6908|Charles Biname|2
+6911|Alan Mehrez|2
+6913|Kunal Deshmukh|0
+6937|Nicholas Jasenovec|2
+6939|Scott Cooper|2
+6941|Dorian Walker|2
+6946|Tim Miller|2
+6960|Michael Jenkins|0
+6961|Takahiro Imamura|0
+6979|Daniel Benmayor|2
+6982|Ross Katz|0
+6986|Tony Ayres|0
+6990|Bill Fishman|2
+6998|Wu Tian-Ming|0
+6999|David Soren|0
+7000|Klay Hall|2
+7002|Vicente Aranda|2
+7005|Rob Nilsson|2
+7009|Manmohan Desai|2
+7011|Rob Hardy|2
+7012|Terence Davies|2
+7031|Elliott Lester|0
+7034|Hannes Holm|2
+7038|Yim Pil-sung|0
+7040|Sam Taylor|2
+7055|Brandon Camp|2
+7065|Jeffrey Hornaday|2
+7069|So Yong Kim|1
+7071|Harvey Miller|2
+7076|Stefan Schwartz|2
+7089|David Price|0
+7091|Ethan Wiley|2
+7097|Mark Pirro|0
+7101|Alex Pastor|2
+7103|Jeremy Kagan|2
+7104|Carlos Saura|2
+7108|Ham Tran|2
+7116|Vadim Sokolovsky|0
+7124|Rashane Limtrakul|0
+7130|Daniel Goldberg|0
+7146|Craig Zobel|0
+7149|James DeMonaco|2
+7152|Dmitriy Dyachenko|0
+7156|Daniel Barber|2
+7162|Jon Gunn|2
+7166|Ti West|2
+7186|Rich Murray|0
+7189|Vic Armstrong|2
+7195|Chris Morris|2
+7196|Joona Tena|0
+7197|Tsui Siu-Ming|2
+7203|B.A. Brooks|0
+7212|Ken Scott|0
+7221|Dale Launer|2
+7232|Xavier Dolan|2
+7261|Busby Berkeley|2
+7262|Rodrigo Cortes|0
+7263|Adam Resnick|2
+7267|Richard Wenk|2
+7292|Pablo Berger|2
+7307|Timothy Wayne Folsome|2
+7316|Marco Mak Chi-Sin|2
+7326|Bruno Dumont|2
+7335|Hans Petter Moland|0
+7336|Richard Williams|0
+7350|Cheryl Dunye|0
+7351|Andrew Solt|2
+7362|Richard Wilson|2
+7382|Mark Wexler|2
+7386|Dejan Zecevic|2
+7388|Ruslan Baltzer|0
+7390|Roberto Santiago|2
+7391|Simon Moore|2
+7400|Clarence Fok|0
+7405|Michael Burke|2
+7406|Bruce LaBruce|2
+7414|Hur Jin-Ho  |2
+7418|Tomm Moore|2
+7423|Lamont Johnson|2
+7432|Hue Rhodes|2
+7435|Cody Cameron|2
+7466|Walter Summers|2
+7508|Joshua Leonard|2
+7510|Bill Plympton|0
+7536|Ivan Zuccon|0
+7539|Leon Klimovsky|0
+7542|Jose Ramon Larraz|0
+7543|Joyce E. Bernal|1
+7549|Sarawut Wichiensarn|0
+7552|Charles Burnett|2
+7561|Jason Paul Collum|2
+7579|Jean-Jacques Mantello|0
+7588|Richard Ayoade|2
+7594|Sylvio Tabet|0
+7602|Floria Sigismondi|0
+7607|Dean Murphy|2
+7615|Sooraj R. Barjatya|2
+7629|Adam Wingard|2
+7652|Elia Suleiman|2
+7672|John Pieplow|2
+7708|Richard Gabai|2
+7710|Josep Maria Domenech|0
+7719|Omer Vargi|0
+7721|Levent Semerci|0
+7726|Stephen Roberts|2
+7729|Jim Sharman|2
+7730|Ken Cameron|0
+7751|Oren Moverman|2
+7765|Mariano Ozores|0
+7770|Christian Vuissa|2
+7798|John Burgess|0
+7804|Peter Sasdy|2
+7821|Lionel C. Martin|0
+7826|Tom DeSimone|2
+7834|Johannes Roberts|2
+7840|Juan Piquer Simon|0
+7846|Ronnie Sortor|2
+7847|Carlos Puerto|0
+7854|John Hyams|2
+7881|Fabrizio De Angelis|0
+7891|Claudia Llosa|1
+7897|Kevin Tancharoen|2
+7925|Philippe Mora|0
+7944|Homi Adajania|0
+7945|Anthony Byrne|0
+7952|Simon Curtis|2
+7984|Wyott Ordung|0
+7986|Robert Marcarelli|2
+7991|Eric Blakeney|2
+8008|Robert D. Siegel|2
+8010|Ramon Menendez|2
+8015|Giuliano Carnimeo|0
+8018|Malcolm Venville|2
+8034|Andrucha Waddington|0
+8035|Luis Puenzo|0
+8036|Sergey Bondarchuk|2
+8041|Nick Murphy |2
+8056|Eloy de la Iglesia|2
+8060|Thierry Notz|2
+8066|Eldar Salavatov|0
+8099|David M. Rosenthal|2
+8108|Luis Maria Delgado|0
+8138|John Huckert|0
+8156|Manny Coto|2
+8178|Cirio H. Santiago|2
+8192|Stuart Hazeldine|0
+8194|Daniel Espinosa|2
+8195|Jesus del Cerro|2
+8200|Srdan Dragojevic|0
+8202|George Mendeluk|2
+8207|Pupi Avati|2
+8225|Adrian Garcia Bogliano|0
+8229|Park Chul-soo|2
+8235|Mark Anthony Galluzzo|2
+8242|Guy Green|2
+8251|Bob Gosse|2
+8260|Ricardo Trogi|2
+8264|Marshall Brickman|2
+8268|Robert Boris|0
+8274|Stuart Paton|0
+8282|John 'Bud' Cardos|0
+8309|James Beshears|0
+8348|Osamu Kaneda|2
+8357|Yilmaz Erdogan|2
+8363|Paul Lynch|2
+8373|William Richert|2
+8397|Tom Moore|0
+8429|Philip Saville|2
+8446|Jaco Van Dormael|2
+8447|Robert Patton-Spruill|2
+8464|Togan Gokbakar|0
+8469|Ari Sandel|0
+8497|Dmitriy Kiselev|2
+8503|Michael Pate|2
+8515|Jennie Livingston|0
+8532|Kartal Tibet|0
+8535|Arch Hall Sr.|0
+8548|Xavier Giannoli|0
+8559|Tayfun Guneyer|0
+8570|Valeriya Gay Germanika|0
+8587|Fred Niblo|2
+8592|Ertem Egilmez|2
+8603|Kodi Rama Krishna|0
+8604|Timothy Hutton|2
+8620|Lowell Sherman|0
+8630|Manuel Gomez Pereira|0
+8638|Miguel Sapochnik|2
+8642|Andy de Emmony|2
+8643|Keiichi Sato|2
+8654|Kees Van Oostrum|0
+8663|Laurice Guillen|1
+8666|Jeff Celentano|0
+8678|Robert Radler|2
+8679|Byron Chudnow|0
+8689|Adam Salky|2
+8693|Steven Hahn|0
+8706|Lal|2
+8722|Lawrence Bassoff|0
+8735|Tiffanie DeBartolo|0
+8741|Vince Offer|0
+8747|Steven Kampmann|2
+8756|Shana Feste|0
+8760|Valerij Ugarov|0
+8776|Roberto Burchielli|0
+8786|Rob Epstein|2
+8787|Victory Tischler-Blue|0
+8788|Patricia Riggen|0
+8796|Andre van Heerden|2
+8809|Jack Nicholson|2
+8810|Tommy Stovall|0
+8830|Will Koopman|0
+8833|Lee Toland Krieger|2
+8861|Tim Burstall|2
+8865|Konstantin Bronzit|2
+8866|Gary Weis|2
+8869|Manoj Kumar|2
+8888|William Sachs|2
+8893|Leesong Hee-il|2
+8910|Kristopher Belman|0
+8915|Thomas J. Wright|0
+8923|Ding Sheng|0
+8926|Prince|2
+8929|George Bamber|2
+8935|Joel Hershman|2
+8964|Sam Taylor-Johnson|1
+8967|Ilya Maksimov|0
+8974|Abhishek Chaubey|2
+8998|Heitor Dhalia|2
+9008|Andrew Bujalski|0
+9017|James L. Conway|2
+9027|Pablo Larrain|2
+9033|Nicole Garcia|1
+9034|Ovidio G. Assonitis|0
+9047|Vit Klusak|0
+9050|Christopher Coppola|2
+9061|Jim Field Smith|2
+9063|Lance Daly|0
+9068|Karl Zwicky|2
+9093|Jay DiPietro|2
+9097|Ashwani Dhir|0
+9122|Justin Zackham|2
+9140|James Longley|0
+9166|Patrick Kong|0
+9167|Per Berglund|2
+9172|Alan Smithee|0
+9176|Andrei Kavun|0
+9181|Genevieve Robert|0
+9184|Gareth Evans|0
+9186|Thiru|0
+9189|Tom Ford|2
+9200|Alexander Williams|2
+9217|Vijay Lalwani|0
+9219|Peter Stebbings|2
+9226|Alan Poul|2
+9234|Roman Kachanov|2
+9236|Brian Percival|2
+9252|Chung Yoon-chul|2
+9254|Susanna White|0
+9255|Valerie Guignabodet|0
+9267|Eugene Lourie|2
+9285|Lucian Pintilie|2
+9304|Mat Whitecross|2
+9313|Jonas Frick|0
+9320|Paul King|2
+9323|Ferdinand Fairfax|2
+9326|Tim Allen|2
+9327|David Michod|2
+9328|Patrick Huard|2
+9329|George Fitzmaurice|2
+9343|Stephen Cornwell|2
+9351|Javier Ruiz Caldera|2
+9353|Hari|0
+9354|Kevin James Dobson|2
+9363|Julie Anne Robinson|1
+9375|Timothy A. Chey|2
+9377|Sam Miller|2
+9384|Jacob Gentry|2
+9386|Johan Nijenhuis|0
+9411|Stephen Poliakoff|2
+9417|Gregory Gieras|0
+9435|Russell Holt|0
+9437|Joe Winston|0
+9444|Hisayasu Sato|2
+9476|Katsuhide Motoki|2
+9531|Agnieszka Wojtowicz-Vosloo|1
+9551|Tibor Hernadi|0
+9555|Gary J. Tunnicliffe|2
+9581|Benjamin Heisenberg|2
+9595|Inna Evlannikova|1
+9596|Konstantin Maksimov|0
+9597|Dmitri Voronkov|0
+9602|Masahiko Murata|0
+9629|Lizzie Borden|0
+9646|Ernst Hofbauer|0
+9670|Nick Stringer|0
+9672|Noel Nosseck|2
+9707|Sondra Locke|1
+9709|Chris Buck|0
+9724|Asghar Farhadi|2
+9727|Victor Saville|0
+9763|Michael Austin|0
+9823|Pavel Sanaev|0
+9843|Sean Baker|2
+9866|Parmeet Sethi|0
+9877|Abderrahmane Sissako|0
+9878|R.D. Robb|0
+9893|Kostas Karagiannis|2
+9896|Eva Gardos|1
+9902|Jorma Taccone|2
+9903|Goro Miyazaki|0
+9904|Gautham Vasudev Menon|2
+9909|Toya Sato|0
+9918|Dong-hun Choi|2
+9920|Asger Leth|0
+9935|George Nolfi|2
+9939|Tom McGrath|2
+9949|Pablo Carbonell|2
+9950|Mateo Gil|2
+9958|Joe Menendez|0
+9964|Anton Bormatov|0
+9984|Massimo Venier|0
+10004|Daniel Stamm|0
+10018|Rachel Perkins|1
+10039|J Blakeson|2
+10060|Christopher Crowe|2
+10077|William A. Fraker|2
+10080|Vinayak V.V.|2
+10100|Byron Howard|2
+10109|Yorgos Lanthimos|2
+10125|Anders Anderson|0
+10131|Carlos Bolado|2
+10134|Allan Mindel|2
+10144|Ra Hee-Chan|0
+10158|Debra Granik|1
+10170|Hal Sutherland|2
+10181|Olivia M. Lamasan|0
+10218|Levan Gabriadze|0
+10219|Koji Hashimoto|0
+10220|Peter Duffell|2
+10232|Sebastian Junger|2
+10259|Radu Muntean|0
+10274|Banksy|0
+10291|Ousmane Sembene|0
+10297|N. Linguswamy|0
+10315|Brad Peyton|2
+10332|Marc Forby|2
+10339|Ravi Chopra|2
+10359|Nonzee Nimibutr|2
+10362|Tanit Jitnukul|0
+10376|Jean-Francois Pouliot|0
+10399|Michael Laughlin|2
+10440|Michael Mak|0
+10517|Peter Masterson|2
+10518|Lisa Krueger|1
+10519|Ranjith|2
+10532|Ralph Levy|2
+10535|Stephane Aubier|0
+10539|Peter Manoogian|2
+10540|Stephen Quay|2
+10545|Brandon Vietti|2
+10551|Natsuki Imai|0
+10560|Laura Poitras|1
+10562|Punit Malhotra|0
+10571|Abbe Wool|0
+10581|Ann Hui|1
+10586|K. S. Ravikumar|2
+10603|Michael Sarne|2
+10604|Law Chi-Leung|0
+10621|Brian A Miller|0
+10627|Claes Eriksson|0
+10634|Tamas Sas|0
+10647|Brian Baugh|2
+10651|Robert M. Young|2
+10665|Pascal Chaumeil|2
+10684|Aviva Kempner|0
+10704|Robert Resnikoff|0
+10705|Lo Lieh|2
+10709|John Penney|2
+10717|Agusti Villaronga|0
+10727|Derrick Borte|2
+10734|Munehisa Sakai|0
+10737|Eric Brevig|2
+10747|Galt Niederhoffer|1
+10763|Max Giwa|0
+10765|Fredrik Bond|0
+10774|Ben Waller|0
+10775|Ray Muller|0
+10778|Bruce Joel Rubin|2
+10779|Warren Leight|0
+10789|Kyle Dean Jackson|0
+10810|James D. Parriott|0
+10851|Yegor Konchalovsky|2
+10855|Igor Zaytsev|0
+10888|Manuel Gutierrez Aragon|2
+10894|Ben Wheatley|2
+10912|Max Baer, Jr.|2
+10928|Henry Joost|2
+10929|Steve Antin|2
+10937|Wael Ehsan|2
+10961|Peter Davis|2
+10973|Norman Lear|2
+10979|Peter Fonda|2
+10987|Giuseppe Capotondi|0
+10992|Joshua Safdie|2
+10998|Harry Beaumont|2
+10999|Hy Averback|2
+11045|Tze Chun|0
+11049|Huck Botko|2
+11050|Aaron Woodley|2
+11061|Ben Steinbauer|2
+11067|Vladimir Khotinenko|0
+11072|Caroline Bottaro|1
+11089|Adam Sanderson|0
+11095|Gene Fowler Jr.|2
+11098|Richard Boleslawski|2
+11109|Kim Kwang-sik|2
+11113|Alex Gilbert|0
+11124|Phil Tucker|0
+11131|Akram Fareed|2
+11132|ahmd albdry|0
+11133|Ahmed Nader Galal|2
+11158|Mia Hansen-Love|0
+11169|Alper Mestci|0
+11173|Alexandre Rockwell|2
+11177|Melissa Martin|1
+11179|Reverge Anselmo|0
+11185|Mark Rucker|0
+11189|Rowan Joffe|2
+11204|Mohsen Makhmalbaf|0
+11217|Stuart Beattie|0
+11219|Gareth Edwards|2
+11220|Rithy Panh|2
+11224|Philip Seymour Hoffman|2
+11226|Helene Cattet|0
+11236|Cheol-hie Park|0
+11242|Kyle Lawrence|2
+11253|Michael Steinberg|2
+11255|A. L. Vijay|2
+11279|John Wells|2
+11289|Gary Preisler|0
+11304|Kelsey T. Howard|2
+11334|Andrew Haigh|2
+11374|Anusha Rizvi|0
+11377|Jonathan Wacks|2
+11397|Chris Dowling|0
+11410|Chris Blum|0
+11417|Guan Hu|0
+11419|Konosuke Uda|2
+11425|Mike Gunther|0
+11444|Glen Goei|2
+11453|Spencer Susser|2
+11480|Michael D. Sellers|2
+11495|Daryl Wein|2
+11500|Ryan Piers Williams|2
+11501|Raj Kanwar|2
+11503|Christopher B. Landon|2
+11519|Lauren Greenfield|1
+11527|Richard Levine|0
+11551|Babak Najafi|2
+11559|Ricardo de Montreuil|2
+11587|Jonathan Parker|2
+11602|Vikramaditya Motwane|2
+11603|Ole Schell|2
+11604|Drake Doremus|2
+11610|Sara Lamm|1
+11649|Patrick Hughes|0
+11650|Lixin Fan|0
+11654|Angela Bettis|1
+11664|Quentin Dupieux|0
+11666|Dan Rush|2
+11691|Roger Holzberg|0
+11713|Kevin Rafferty|2
+11718|Eric Hannah|0
+11752|Gilbert Moses|2
+11754|Antoinette Beumer|0
+11770|Matt Harlock|0
+11774|Robert Schmidt|0
+11778|Ben Kay-Coles|0
+11780|Andre Ovredal|0
+11787|Pavel Chukhray|0
+11802|Chris Renaud|0
+11809|Troy Nixey|2
+11816|Jay Craven|2
+11821|Susan Buice|0
+11827|Peter Atencio|2
+11840|Arjun Sablok|0
+11855|Didier Le Pecheur|2
+11859|Damien Chazelle|2
+11865|Steffen Haars|2
+11866|Sngmoo Lee|2
+11887|David Kaplan|0
+11904|Derek Cianfrance|2
+11939|Richard J. Lewis|2
+11952|Aaron Katz|0
+11961|Oren Rudavsky|0
+11981|Ben Bolt|2
+11995|Karen Shakhnazarov|0
+11997|Stewart Main|0
+12032|Josh Radnor|2
+12033|Miguel Albaladejo|2
+12047|Fabrizio Costa|2
+12049|Victor Nunez|2
+12065|John Erman|2
+12078|Genndy Tartakovsky|0
+12123|Aleksey Uchitel|2
+12128|Jonathan Nossiter|2
+12130|Liv Ullmann|1
+12133|Lena Dunham|1
+12140|Tom Rickman|2
+12147|Tara Judelle|0
+12179|David Wellington|2
+12181|Don Hahn|2
+12183|Ernest Thompson|2
+12190|Mark Lewis|0
+12192|Walter Bernstein|2
+12195|Andrew J. Kuehn|2
+12197|Lee David Zlotoff|0
+12207|Olaf de Fleur Johannesson|2
+12272|Dax Shepard|2
+12281|Amit Saxena|0
+12285|Jalmari Helander|2
+12287|Chris Evans|0
+12292|Luca Miniero|0
+12303|Douglas Day Stewart|2
+12304|Michael Dudok de Wit|2
+12307|Roberto Girault|0
+12336|Guillem Morales|2
+12340|Emmanuelle Bercot|1
+12347|ashrf fayq|0
+12356|ʿly adrys|0
+12357|ʿmrw ʿrft|0
+12367|Billy Weber|2
+12379|Suresh Krissna|0
+12380|Perarasu|0
+12381|Saran|0
+12397|William Monahan|2
+12424|Jason Eisener|0
+12425|Jason Winer|2
+12426|Gary Shore|0
+12427|Gary McKendry|0
+12461|Tobias Lindholm|2
+12478|Lee Seok-hoon|2
+12483|Michael Pattinson|2
+12509|Jennifer Yuh Nelson|1
+12510|Ry Russo-Young|0
+12560|Pip Karmel|1
+12571|Tunc Basaran|0
+12610|Nick Francis|0
+12632|Kyle Patrick Alvarez|2
+12641|Lucien Castaing-Taylor|0
+12646|Venkat Prabhu|2
+12649|Danish Aslam|0
+12653|Matthew Warchus|0
+12669|Roy London|0
+12674|Woo Min-Ho|0
+12677|Angel Gracia|2
+12679|Lucy Bailey|0
+12690|Simon Klose|0
+12712|Chris Zamoscianyk|0
+12741|Evgeniy Bedarev|0
+12750|Nirattisai Kaljareuk|0
+12772|Don Scardino|2
+12780|Lee Harry|0
+12794|Sean Durkin|2
+12795|Michael Greenspan|2
+12796|J.C. Chandor|0
+12797|Duncan McLachlan|2
+12803|Gonzalo Suarez|2
+12824|Barry Cook|2
+12830|Matt Mahurin|0
+12850|Stephen Anderson|0
+12873|Anton Megerdichev|0
+12880|Marisa Silver|1
+12892|David Swann|0
+12900|Pernilla August|1
+12905|Will Canon|2
+12933|Lee Jeong-Beom|0
+12944|Hiromasa Yonebayashi|0
+12949|Douglas Langway|2
+12955|Eduardo Schuldt|2
+12970|Chris McKay|0
+12992|Ciaran Foy|0
+12996|Jeff Malmberg|0
+12999|Paul Fierlinger|0
+13000|Suri Krishnamma|2
+13007|Chad Burns|2
+13040|Alain Gagnol|2
+13055|Diego Vega Vidal|0
+13056|Logan Miller|2
+13090|Park Hoon-Jung|0
+13147|Ajmal Zaheer Ahmad 	|0
+13158|Maneesh Sharma|0
+13174|Rich Cowan|0
+13200|Jason D. Morris|0
+13203|Sergei Glezin|0
+13205|Gopichand Malineni|0
+13218|Kaisorn Buranasing|0
+13231|Nicole Conn|1
+13235|John Scheinfeld|2
+13236|Georgiy Shengeliya|0
+13254|Frank Whaley|2
+13263|Jeff Zimbalist|2
+13298|Steve Yeager|0
+13301|Saverio Costanzo|0
+13308|Bobb Hopkins|0
+13321|Eddie Lateste|0
+13332|Gary Ugarek|0
+13378|Mysskin|2
+13396|Silvio Muccino|2
+13402|Peter Ramsey|2
+13411|David Salle|2
+13423|Kim Tae-yong|2
+13428|Bruce Hendricks|2
+13437|David Serrano|0
+13455|F. Richard Jones|2
+13467|William Eubank|2
+13471|Xue Xiaolu|0
+13477|Balu Mahendra|2
+13486|Boyapati Srinu|2
+13500|Aleksandr Kirienko|0
+13518|Kyle Balda|0
+13526|Steven Quale|2
+13528|Michael Tully|2
+13529|Anthony Burns|2
+13605|David Evans |0
+13608|James Ponsoldt|0
+13634|Mark Decena|2
+13669|Kim Farrant|0
+13702|Mike Disa|0
+13709|Richard Press|0
+13711|Max Winkler|2
+13717|Sekhar Kammula|0
+13749|Todd Strauss-Schulson|2
+13788|Steve Martino|2
+13798|K. Manikandan|0
+13800|Doug Bollinger|0
+13809|Ravi Mariya|2
+13810|M. Sasikumar|2
+13812|Prabhu Solomon|0
+13832|Matthew Porterfield|0
+13844|Matthias Olof Eich|0
+13855|Ryan Gielen|0
+13856|Benh Zeitlin|0
+13884|Sherif Arafa|2
+13914|Xan Cassavetes|1
+13939|Ali Ragab|0
+13946|Aleksei Sidorov|2
+13953|Jim Kohlberg|0
+13960|Douglas Schwartz|2
+14002|Khalid Mohammed|0
+14025|Imanol Uribe|2
+14034|Paul Johansson|2
+14042|Joshua Zeman|2
+14045|Aleksandr Proshkin|2
+14054|Yoav Shamir|2
+14062|Keith Bearden|2
+14064|Mikkel Braenne Sandemose|2
+14086|Leste Chen|0
+14088|BV Nandini Reddy|0
+14102|Peter Brown|0
+14109|Salim Akil|2
+14119|Stevan Filipovic|0
+14123|Roman Karimov|0
+14124|Nima Nourizadeh|0
+14161|ahmd ysry|0
+14163|Brigitte Berman|1
+14168|mjdy ahmd ʿly|0
+14170|wlyd altabʿy|0
+14195|Ahmed El Gendy|0
+14197|Ahmad Abdalla|0
+14199|Khaled Youssef|2
+14206|Keith Scholey|2
+14228|Natalya Uglitskikh|0
+14236|Harish Shankar|2
+14249|Khaled Marei|0
+14253|hatm ʿly|0
+14254|mhmwd kaml|0
+14255|samy rafʿ|0
+14256|asmaʿyl mrad|0
+14257|kamlt abw dhkry|0
+14258|smyh alnqash|0
+14259|aymn mkrm|0
+14267|ramy amam|0
+14272|Kirill Kuzin|0
+14304|Allen Hughes|2
+14336|Anand L Rai|0
+14363|Roberto Ando|0
+14368|Giacomo Ciarrapico|0
+14373|Jamie Linden|0
+14376|Rupert Sanders|2
+14398|Jun Lana|0
+14401|Wuershan|0
+14407|Evan Glodell|2
+14412|Siddique|2
+14445|Nayan Padrai|0
+14489|Dmitriy Astrakhan|0
+14490|Kevin Farley|2
+14494|John Pogue|0
+14511|Jon Shenk|0
+14524|Pooja Bhatt|1
+14527|Clio Barnard|0
+14536|Dermot Mulroney|2
+14537|Sunao Katabuchi|0
+14549|Craig McCracken|0
+14551|Alicia Scherson|1
+14562|Robbie Pickering|0
+14587|Joe Cornish|2
+14620|Matty Rich|2
+14632|Michele Hozer|1
+14681|Claude Desrosiers|2
+14711|Sam Levinson|0
+14712|Ramon Fernandez|0
+14744|Kamal Haasan|2
+14747|S. J. Surya|2
+14750|Nicholas Jarecki|2
+14773|Abhinay Deo|0
+14774|Dan Bradley|2
+14779|Jose Luis Garci|2
+14790|Craig Zisk|2
+14800|Ingo Rasper|0
+14801|Mina Shum|0
+14810|Paolo Bertola|0
+14813|Matthijs van Heijningen Jr.|2
+14844|Pyotr Buslov|0
+14850|Remo D'Souza|0
+14865|Olivier Masset-Depasse|0
+14869|Sarik Andreasyan|0
+14870|Frederic Jardin|0
+14933|Danny Huston|2
+14971|Donald P. Bellisario|2
+15003|Yusry Abdul Halim|0
+15004|Roberto Santucci|2
+15006|Mark Andrews|2
+15012|Dan Scanlon|2
+15071|Aleksandr Veledinskiy|0
+15074|Nati Baratz|0
+15077|Tigran Keosayan|2
+15079|Roman Prygunov|0
+15088|Christopher Spencer|0
+15095|Viktor Shamirov|0
+15132|mhsn ahmd|0
+15156|Max Lemcke|0
+15160|Celine Danhier|0
+15161|Andrew Rossi|2
+15167|Jordan Vogt-Roberts|0
+15168|Yuriy Kara|2
+15185|Oleg Assadulin|0
+15186|Johnny O'Reilly|0
+15190|Olga Subbotina|1
+15191|Aleksandr Chernyaev|0
+15192|Feliks Gerchikov|2
+15199|Michael R. Roskam|0
+15201|Tom Putnam|0
+15220|A. Karunakaran|0
+15226|Siva|2
+15238|Matthew Chapman|2
+15274|Bharathan|2
+15288|Aron Schock|0
+15308|Ezhil|0
+15317| Vitaliy Vorobyov|0
+15327|Vladimir Shchegolkov|0
+15328|Mger Mkrtchyan|0
+15332|Andrei Proshkin|0
+15338|Lance Young|0
+15339|Djo Munga|2
+15410|Lee Fulkerson|0
+15436|Aleksey Mizgiryov|2
+15476|Gavin Wiesen|2
+15478|Carl Rinsch|0
+15509|Joe Mantello|2
+15521|David Rodriguez|2
+15528|Tigmanshu Dhulia|0
+15542|Victor Vu|2
+15571|Sergei Loban|0
+15584|Jeff Blyth|0
+15653|Tanya Wexler|1
+15660|Bala|2
+15706|Jonathan Newman|2
+15748|Qasim Basir|0
+15789|Jeffery Delman|0
+15790|Nick Tomnay|2
+15792|Krish (Radhakrishna Jagarlamudi)|2
+15891|Wang Guangli|0
+15941|Oleg Fesenko|0
+15969|Erik Matti|2
+15978|S. Lee Pogostin|0
+15986|Cindy Meehl|1
+16053|Justin Kurzel|2
+16089|John Michael McDonagh|2
+16099|Bogdan Drobyazko|0
+16112|Vetrimaran|0
+16114|Antony J. Bowman|0
+16134|Callan Brunker|0
+16191|Mary Agnes Donoghue|0
+16242|Jessica Oreck|0
+16314|Yevgeny Yufit|2
+16378|Raju Sundaram|2
+16382|Saravana Subbiah|2
+16383|V. Z. Durai|0
+16385|Chella|0
+16386|Shaji Kailas|2
+16387|N. Maharajan|0
+16388|K S Ravindra|2
+16389|Singampuli|2
+16390|Vasanth|2
+16391|Agathiyan|0
+16393|Rajiv Menon|2
+16394|T. Aravind|0
+16396|Arjun Sarja|2
+16403|Pushkar-Gayathri|0
+16428|Shakti Soundar Rajan|2
+16444|Shafi|0
+16450|Albert Saguer|0
+16465|Bejoy Nambiar|0
+16466|Ed Gass-Donnelly|2
+16469|Ben Palmer|0
+16507|James Tucker|0
+16510|Nitesh Tiwari|0
+16535|John Mellencamp|2
+16539|Tom Harper|0
+16545|Garik Sukachyov|2
+16564|Sergei Popov|2
+16612|Al Silliman Jr.|0
+16642|David Robert Mitchell|2
+16658|Abe Sylvia|0
+16707|Leslie Megahey|0
+16721|Daniel Nettheim|0
+16760|Andrew Lane|2
+16769|Jason Chong|0
+16857|Robert Kirbyson|0
+16862|Aleksey German|0
+16874|Barry Primus|2
+16883|James Bond III	|0
+16888|Markus Welter|2
+16900|Sreenu Vaitla|2
+16915|Puneet Issar|2
+16927|Mootaz El Toony|0
+16928|Seth MacFarlane|2
+16994|Anthony Hemingway|0
+16995|Mark Kassen|0
+17008|Ami Canaan Mann|0
+17018|Alain Fresnot|2
+17043|Igor Voloshin|0
+17082|David Brooks|2
+17091|Ivan Vyrypaev|0
+17099|Ava DuVernay|1
+17131|Lionel Chetwynd|2
+17150|Dan Trachtenberg|2
+17195|Craig Johnson|2
+17205|Tom Hines|2
+17208|Michael Brandt|2
+17219|Aleksandr Zelʹdovic|2
+17249|Chiu Keng Guan|2
+17259|Montxo Armendariz|2
+17347|Job Gosschalk|2
+17398|Teddy Yip Wing-Cho|0
+17429|Ali Zafar|2
+17444|Stephane Rybojad|0
+17460|Navot Papushado|0
+17478|Jaime Escallon|2
+17479|Iginio Straffi|0
+17486|Pascal Plisson|0
+17503|Mike Flanagan|2
+17584|John Patrick Kelley|2
+17598|Constance Marks|1
+17617|Josh Kornbluth|0
+17636|Josell Ramos|0
+17666|Mike McCoy|2
+17753|Brian Lockwood|0
+17755|William Hale|2
+17762|Sandra Nashaat|0
+17823|Joshi|0
+17827|Paddy Considine|2
+17828|Keanu Reeves|2
+17829|Juraj Nvota|0
+17846|Josh Trank|2
+17923|Sam Fell|2
+17932|Alvaro Saenz de Heredia|0
+17978|Kobun Shizuno|2
+17981|Tony Cookson|0
+17995|Kamal|0
+17999|Georgij Gitis|2
+18031|Yoav Potash|2
+18076|Norman Mailer|2
+18081|Wilson Chin|0
+18093|Damian Szifron|0
+18099|Ela Troyano|0
+18100|Roger Gnoan M'Bala|0
+18123|Konstantin Buslov|0
+18144|Ronan Chapalain|0
+18147|Jared Cohn|2
+18161|Andrei Zaitsev|2
+18181|Stephen Vittoria|2
+18212|Rafi Mecartin|0
+18223|T Hariharan|2
+18285|Sudha Kongara Prasad|1
+18314|Padmakumar M|0
+18414|Matt Bettinelli-Olpin|2
+18427|Pedro L. Barbero|2
+18477|Dori Berinstein|1
+18479|Wesley Strick|2
+18490|Amal Neerad|0
+18497|Todd Lincoln |0
+18521|Angelina Jolie|1
+18528|Jayaraj|2
+18590|Jennifer Westfeldt|1
+18604|Radu Jude|2
+18643|Sathyan Anthikad|2
+18704|Kazuya Murata|0
+18767|David Gelb|2
+18771|Yongyoot Thongkongtoon|0
+18787|Chandra Sekhar Yeleti|0
+18817|K. Vijaya Bhaskar|2
+18854|Helmut Dziuba|0
+18880|David Foenkinos|0
+18904|Paul Grau|0
+18912|Hwang Dong Hyuk|0
+18931|Yaron Zilberman|0
+18938|Koji Maeda|0
+19000|Sameer Thahir|2
+19006|Stephen St. Leger|0
+19104|David Wnendt|0
+19105|Mark Duplass|2
+19199|Ryan White|0
+19238|Brian Klugman|2
+19276|Andrew Erwin|0
+19277|Vladimir Toropchin|0
+19280|Sebastian Lelio|0
+19281|Sheldon Candis|2
+19327|Matt Ross|2
+19329|Alison Klayman|0
+19331|Leslye Headland|0
+19333|Jeff Orlowski|2
+19340|Jamie Travis|0
+19358|Destin Cretton|2
+19374|Jake Schreier|0
+19375|Rodney Ascher|2
+19377|Colin Trevorrow|2
+19381|Ice-T|2
+19388|Thomson K Thomas|0
+19395|Joseph Dorman|0
+19458|Ra'up McGee|0
+19467|Karan Malhotra|0
+19474|Stephen Chbosky|2
+19578|Lal Jose|2
+19588|Malgorzata Szumowska|0
+19603|Scott Speer|2
+19607|Albert Serra|0
+19608|Riccardo Milani|0
+19693|Brett Haley|2
+19700|Manuel Cano|0
+19725|Kusuba Kouzou|0
+19736|Mark Rosenthal|2
+19758|Stephane Robelin|0
+19767|Nick Ormerod|2
+19801|Jade Castro|0
+19803|Dexter Fletcher|2
+19834|Rafa Lara|0
+19843|Zal Batmanglij|2
+19892|Tengiz Abuladze|2
+19904|Muriel Coulin|0
+19975|Lorene Scafaria|1
+19983|Jonathan Sobol|0
+20035|sʿyd almarwq|0
+20074|Julian Farino|2
+20129|Daniel Calparsoro|2
+20149|Harold Cronk|2
+20302|Renat Davletyarov|0
+20326|Kat Coiro|0
+20372|Susanne Rostock	|0
+20437|Leslie Zemeckis|1
+20632|Philippe Lellouche|2
+20633|Bradley Parker|0
+20642|Richard Danus|2
+20687|Bora Dagtekin|2
+20688|Rob Fitz|0
+20739|Stephen Elliott|2
+20746|Gunasekhar|0
+20908|Dean Wright|2
+20941|Daniele Vicari|0
+21022|Arjun Sajnani|0
+21031|RZA|2
+21053|Egor Baranov|0
+21125|Phillip Ko Fei|2
+21148|Alex Kurtzman|2
+21190|S. S. Stanley|0
+21281|Nick Chamberlin|0
+21318|Boris Rodriguez|0
+21369|kul chati cit khcr wanich|0
+21379|Jason Alexander|2
+21397|Ralph Fiennes|2
+21398|Jonathan Zarantonello|0
+21410|Dan Cutforth|2
+21427|Jason Stoddard|0
+21479|Wes Ball|0
+21494|Aleksey Andrianov|0
+21515|Jorge Iglesias|0
+21539|Robert Stromberg|0
+21555|Afonso Poyart|0
+21580|Seth Zvi Rosenfeld|0
+21612|Shoojit Sircar|0
+21622|Amr Salama|2
+21624|mhmd samy|0
+21869|Lijo Jose Pelliserry|0
+21873|Vishal Mahadkar|0
+21885|B. Unnikrishnan|2
+21888|Timothy Armstrong|0
+22086|Ben Lewin|2
+22157|Jon Lucas|2
+22200|Nicolas Pereda|0
+22356|Seth Rogen|2
+22360|Fede Alvarez|2
+22382|David Palmer|2
+22482|Jon Acevski|0
+22672|Josh Boone|0
+22700|Jeffrey Jeturian|2
+22708|Tim Trachte|0
+22711|Alexandre de La Patelliere|2
+22712|Stuart Blumberg|0
+22740|Jon Watts|2
+22791|Ryan Coogler|2
+22844|Elizabeth Wood|0
+22933|Jason Moore|2
+22988|Jonathan Paley|0
+23010|George Haas|2
+23031|Patricia Martinez de Velasco|0
+23084|Stu Zicherman|0
+23140|Kuntaa Nikkil|0
+23203|Julio Sanchez Valdes|0
+23229|Javier Rebollo|0
+23264|Lawrence Kasanoff|2
+23304|Pedro Maso|0
+23366|David Lowery|2
+23408|Vladlen Barbe|0
+23460|Hayato Date|0
+23491|Gauri Shinde|0
+23497|Ron Nyswaner|2
+23536|Thiagarajan Kumararaja|2
+23549|John Ridley|2
+23579|Bob Shirohata|0
+23651|Vineeth Sreenivasan|2
+23718|Anjali Menon|1
+23719|Naoko Yamada|0
+23737|Saji Surendran|0
+23800|Aaron Moorhead|2
+23817|Enrique Gato|0
+23832|Dustin Hoffman|2
+23844|Rama Burshtein|0
+23904|Franck Gastambide|2
+23953|Joshua Oppenheimer|2
+23985|Paul Rodriguez|2
+23990|Sarah Burns|0
+24115|Rick Walls|0
+24174|John Sullivan|2
+24209|Masahiro Hosoda|0
+24261|Keishi Ohtomo|0
+24290|Andy Clemmensen|0
+24340|Sean Garrity|0
+24355|Christopher Nelius|0
+24358|David Chase|2
+24435|Aashiq Abu|0
+24438|Haifaa Al-Mansour|0
+24445|Maggie Carey|0
+24460|Jose Thomas|0
+24463|Luke Scott|2
+24473|Sugeeth|0
+24504|Pa. Ranjith|2
+24523|Benjamin Lopez|0
+24535|Roger Cantin|0
+24548|Andrew Neel|0
+24554|Jan Ole Gerster|2
+24603|Elizabeth Chai Vasarhelyi|0
+24622|Eunhee Huh|0
+24632|Javier Cardenas|0
+24637|Francisco Javier Padilla|0
+24660|Andy Muschietti|2
+24756|Rupert Goold|0
+24802|Sangyoon Lim|0
+24816|Vysakh|2
+24851|Joel Potrykus|0
+24886|Dave Green|0
+24898|Simon Callow|2
+24902|V K Prakash|0
+24919|Enrique Lopez Lavigne|2
+24964|Michael Covert|2
+24975|Steven Knight|2
+25015|Aleksandr Barshak|0
+25019|Scott Waugh|2
+25065|Akiva Goldsman|2
+25067|Aji John|0
+25076|Lyubov Arkus|0
+25087|Mark Christopher Covino|0
+25144|Ted Koland|0
+25205|Taro Ohtani|0
+25215|Magizh Thirumeni|0
+25223|Michael Tiddes|0
+25235|Gor Kirakosian|0
+25244|Karthik Subbaraj|2
+25255|David Barrett|2
+25279|Daniel Schechter|0
+25308|Jean Claude Tramont|0
+25344|Helene Giraud|0
+25387|Kari Juusonen|0
+25488|Rajesh Pillai|2
+25695|Gregory Plotkin|0
+25718|Iura Luncasu|0
+25721|Balaji Tharaneetharan|0
+25744|Hank Rogerson|0
+25809|Ashish R. Mohan|0
+25810|Nat Faxon|2
+25838|Daisaku Kimura|2
+25853|Aleksandr Voytinskiy|2
+25962|Dan Mazer|2
+25974|Sunil Ibrahim|0
+26006|Jeethu Joseph|2
+26021|Martin Prakkat|0
+26050|Xu Zheng|0
+26108|Clement Michel|0
+26119|Joseph Wang|0
+26133|Fergal Reilly|0
+26235|James Ward Byrkit|2
+26316|Jerusha Hess|2
+26334|Geoff Moore|0
+26352|Shawn Christensen|0
+26359|Wally Pfister|2
+26360|Lake Bell|1
+26367|Mark Neveldine|2
+26371|Ricardo Ramon|0
+26387|Ned Benson|0
+26419|Bryan Buckley|0
+26436|Gireesh|0
+26477|Jerome Enrico|0
+26505|Scott Rutherford|0
+26585|Mark Lamprell|2
+26609|William Riead|0
+26765|Son Tae Woong|0
+26778|Joel Nunez|0
+26936|Maclain Nelson|2
+26944|Ryan Gosling|2
+26957|Alexandre Castagnetti|0
+27035|Charlie Siskel|0
+27063|Lotfy Nathan|0
+27094|Paulo Rocha|0
+27104|Anthony Stacchi|2
+27107|Justin Webster|2
+27193|Elizabeth Banks|1
+27207|Jus Addiss|2
+27218|Anthony Silverston|0
+27245|Daniel Lusko|0
+27257|Jacob Vaughan|0
+27310|Tom Berninger|0
+27339|Lijun Sun|0
+27372|Jenee LaMarque|0
+27460|David Boyd|2
+27467|Yann Demange|0
+27482|Koratala Siva|0
+27501|Steven Bernstein|0
+27526|Rob Thomas|0
+27627|Salam Bappu|0
+27714|Dan Cox|0
+27775|Vijay Kumar Konda|0
+27853|Eric Radomski|2
+27916|Simerjit Singh|0
+27930|Claude Barras|2
+27942|Ayan Mukherjee|0
+28106|Ilya Naishuller|0
+28262|Kelly Nyks|2
+28287|Nalan Kumarasamy|2
+28386|Alphonse Putharen|2
+28434|Zhao Wei|1
+28469|Ritesh Batra|0
+28501|A.J. Edwards|2
+28502|Hossein Amini|0
+28525|Farren Blackburn|0
+28587|Henry Barakat|0
+28612|Elliot Greenebaum|0
+28809|Scott Walker|0
+28827|Maruthi|0
+28863|James Manera|0
+28903|Edgar Marie|0
+28951|Sang-hun Oh|0
+28958|Luis C. Suarez|0
+29022|Eric Wirix|0
+29075|Dmitriy Korobkin|0
+29196|Anahi Berneri|0
+29260|Dennis Hauck|0
+29403|Amma Asante|1
+29501|Alejandro Lubezki|0
+29668|Jingming Guo|0
+29683|Carmelo Musca|0
+29691|Peter Landesman|0
+29703|Jason Bateman|2
+29764|Anthony Leonardi III|0
+29875|Theodore Melfi|0
+29890|Juno Mak|0
+29897|Derek Lee|0
+29942|Bader Ben Hirsi|0
+29969|Jeff Keith|0
+30004|Julian Figueroa|0
+30038|Eugenio Derbez|0
+30043|Anton Terni|0
+30066|Kazuchika Kise|0
+30127|Duane Adler|2
+30161|Kim Ji-Hwan|0
+30318|Tamara Hernandez|0
+30579|Benedikt Erlingsson|2
+30609|Note Chern-Yim|0
+30735|Basar Sabuncu|0
+30748|Pawan Kumar|2
+30785|Engin Orbey|0
+30954|Denny Zartman|0
+31041|Norman England|0
+31079|John Maclean|2
+31103|Conrad Vernon|2
+31126|Ari Rusyadi|0
+31127|Agni Tirta|0
+31144|Anil Radhakrishnan Menon|0
+31169|Jordan Alan|0
+31182|Atlee|2
+31294|Tom Gormican|0
+31345|Ribhu Dasgupta|0
+31405|Ben Falcone|2
+31479|Kiruthiga Udhayanidhi|0
+31564|Jorge Dorado|0
+31568|Dean Israelite|0
+31575|Ganesh Kumar Mohan|0
+31603|Paul Tibbitt|0
+31625|Jorge R. Gutierrez|0
+32114|Dado C. Lumibao|0
+32122|Nancy Florence Savard|0
+32239|Raj Chakraborty|0
+32446|David Mun|0
+32533|Ben Steele|0
+32558|S.L Puram Jayasurya|0
+32633|Vyacheslav Plotnikov|0
+32655|Tom Gianas|0
+32699|Cary Murnion|0
+32720|David Grovic|0
+32734|Jennifer Kent|0
+32763|Stiles White|0
+32765|Sergey Zhigunov|2
+32772|Dan Gilroy|2
+32856|Trish Sie|0
+32901|Sarah Jacobson|0
+32957|Peter Sattler|0
+32958|John Slattery|2
+32962|Maya Forbes|1
+32965|Jeff Baena|2
+32989|Kate Barker-Froyland|0
+33064|Magnus Skogsberg|0
+33075|Zeresenay Mehari|0
+33079|Chad Stahelski|2
+33098|Nesan|0
+33176|Niu Chao-Yang|0
+33355|Gillian Robespierre|1
+33381|Aleksander Bach|0
+33398|R.J. Cutler|0
+33483|Marielle Heller|0
+33502|Kirill Kozlov|0
+33535|Patrick Brice|0
+33677|Thea Sharrock|1
+33691|A. Gokul Krishna|0
+33710|Divya Khosla|1
+33718|Ana Lily Amirpour|1
+33776|Jon Erwin|0
+33828|Glenn Berggoetz|0
+33914|Abrid Shine|0
+34007|Leigh Janiak|0
+34046|Camille Delamarre|0
+34047|Jordan Rubin|0
+34059|H. Gordon Boos|2
+34090|Steven M. Smith|0
+34364|Gabe Polsky|0
+34373|Russell Crowe|2
+34376|Dan Fogelman|2
+34410|Etan Cohen|0
+34430|Jude Anthany Joseph|0
+34485|P. Ramesh|0
+34551|Oles Sanin|0
+34609|Kivanc Baruonu|0
+34688|Jason Zada|0
+34729|Trey Edward Shults|0
+34855|David F. Sandberg|2
+34892|Susanna Fogel|0
+34909|Gerald Webb|0
+34926|Arman Gevorgyan|0
+34972|Eugene Abizov|0
+35216|Irfan Kamal|0
+35273|Ben Kellett|0
+35365|Aleksandr Vartanov|0
+35393|R. Velraj|2
+35394|William Campbell|0
+35414|Mark Burton|2
+35445|Howard Himelstein|2
+35458|Saffron Cassaday|0
+35597|Svyatoslav Podgayevskiy|0
+35635|Alex Garland|2
+35650|Stephen C. Sepher|2
+35739|Rafi|0
+35785|Marie Amachoukeli|0
+35848|Tommy McArdle|0
+35849|Jon Kenny|0
+36007|Pawan Wadeyar|0
+36158|Daniel Scheinert|0
+36257|Felipe Barros|0
+36325|Thomas Cailley|0
+36343|Hashimoto, Takashi|0
+36345|Pascal Vuong|0
+36378|Brian Horiuchi|0
+36383|Zheng Guo-Wei|0
+36394|Deng Chao|2
+36452|Richard Ramsey|0
+36498|Liang Xuan|0
+36501|Bill Pohlad|2
+36636|Alexander Nevsky|0
+36699|Audrey Dana|1
+36820|Anna Wilding|0
+36952|Brandon Sawyer|0
+37004|Alessandro Damiani|0
+37118|Trevor Wall|0
+37208|Sarah Adina Smith|0
+37275|Galen T. Chu|0
+37311|Michael Clinkenbeard|0
+37358|Matthew A. Brown|0
+37571|Leigh Whannell|2
+37613|Marcus Piippo|0
+37821|Euros Lyn|0
+37860|Israel Horovitz|2
+37963|Gregory Levasseur|2
+38016|Kim A. Snyder|1
+38137|Omung Kumar|0
+38138|Jean-Baptiste Leonetti|0
+38140|Veronika Franz|1
+38394|Trey Nelson|0
+38417|Max Nichols|0
+38537|Henry Hobson|0
+38548|Giulio Ricciarelli|2
+38591|Jake Szymanski|0
+38987|Cedric Nicolas-Troyan|0
+39176|Marah Strauch|0
+39187|Mawi|0
+39323|Clare Lewins|0
+39347|Robin Sorbom|0
+39676|John Francis Daley|2
+39786|Jibu Jacob|0
+39815|Tomohisa Taguchi|0
+39908|Stephen Saprid|0
+40079|Travis Cluff|0
+40255|James Vanderbilt|2
+40311|Brad Rego|0
+40339|Max Joseph|2
+40379|Jonathan Silverman|2
+40606|Tadayoshi Yamamuro|0
+40685|Jack Gattanella|2
+40947|Crystal Moselle|0
+41000|Jarrad Paul|2
+41109|Robert Eggers|2
+41213|Natalya Chumakova|0
+41326|Travis Knight|2
+41341|Lesley Ann Patten|0
+41762|Cristina Iacob|0
+41775|Ram Madhvani|0
+41885|Stephen Walker|2
+41981|Maccio Capatonda|2
+42010|Shiboprosad Mukherjee|0
+42117|Tarek El'eryan|2
+42141|Maksim Sveshnikov|0
+42364|Tim Brzakala|0
+42365|Dmitriy Svetozarov|0
+42400|Brad Barber|0
+42602|Jonathan Elbers|0
+42607|Dmitri Meskhiyev|0
+42665|Midhun Manuel Thomas|0
+42695|Giuseppe Amato|0
+42907|Joel Edgerton|2
+43132|R. Ravi Kumar|0
+43164|Maksim Voronkov|0
+43183|Hamdi Alkan|0
+43191|Yuk Ching To|0
+43281|Gee Malik Linton|0
+43369|Sharmeen Obaid-Chinoy|1
+43383|G. Prajith|0
+43458|Takahiko Kyogoku|0
+43463|Fabrizio Conte|0
+43589|Garth Davis|2
+43758|Evgeniy Shelyakin|0
+43779|Laszlo Nemes|0
+43881|Deniz Gamze Erguven|0
+44023|Cameron M. Gambas Johnson|2
+44090|Jessi Robb|0
+44100|Baik|2
+44171|Jean Markose|0
+44218|Gleb Osatinski|0
+44364|David Leitch|2
+44553|Adam Sweeney|0
+45078|Jungwoo Lee|0
+45119|Titus Paar|0
+45130|Antonio Castro|2
+45139|Anna Foerster|1
+45152|Stephen S. Campanelli|0
+45448|Gerald Fox|0
+45481|Sean Patrick O'Reilly|0
+45615|Ken Marino|2
+45630|Yoshihiro Osugi|0
+45744|Tian Xiao Peng|0
+45820|Lorenzo Vigas|0
+45835|G. Marthandan|2
+45937|Yowg|0
+45984|Matt Brown|0
+46026|Stephen Dunn|2
+46578|Christof Wahl|2
+46798|R. S. Vimal|0
+46974|Renny Ray|2
+46981|Nadeem beyg|0
+47407|Nadirshah|2
+47792|Maruthi Dasari|0
+47822|Luo Luo|0
+47862|Subodh Bhave|0
+47906|Vincent Kesteloot|0
+48104|Darina Shmidt|0
+48152|Indar Dzhendubaev|0
+48202|Aryeman Ramsay|0
+48363|Alvydas Slepikas|0
+48390|Aleksey Nuzhnyy|0
+48428|Will Allen|0
+48476|Jesse Pfieffer|0
+48663|Sun Hao|0
+48679|Agnieszka Smoczynska|1
+48775|Otto Bell|0
+48790|Kelly Fremon Craig|1
+48805|Ali Abbas Zafar|0
+48979|Lee Il-hyeong|0
+49033|Kalyan Krishna|0
+49048|Cheung Bing-Chan|0
+49405|Beis Shabani|0
+49432|Dileesh Pothan|2
+49555|Jiu Jiu|0
+49629|Roger Lau Kwok-Fai|0
+49688|Rhee Jinwoo|0
+49689|Kim Yong-woon|2
+49815|Max Adams|0
+49816|Tay Teck Lock|0
+49858|Quang Huy|2
+49988|Phan Gia Nhat Linh|2
+50179|Goo Mo|2
+50620|Takeshi Nozue|0
+50804|Dinesh D'Souza|2
+50837|Jonathan Barre|0
+51044|Julia Ducournau|1
+51096|Tharun Bhascker Dhaassyam|0
+51401|Gary Gulman|2
+51867|Philippe Lacheau|2
+52371|Dmitriy Suvorov|0
+52794|Azfar Jafri|0
+53459|Sajan K. Mathew|0
+53586|Jazz Boon|0
+53822|Aaron Mullan|2
+53935|Tomohiko Itou|2
+54325|Nabeel Qureshi|0
+54327|Longmond Leung Lok-Man|0
+54746|Jordan Peele|2
+55052|Fan Jianhui|0
+55268|Crispin Sadler|0
+55274|Pierre Core|0
+55291|Billy Dickson|2
+55344|Aksinya Gog|0
+55745|Hakim Robinson|0
+55783|Kate Hudspith-Gooch|0
+55951|Jay K|0
+55952|Haneef Adeni|0
+56415|Scott Barley|2
+56602|Sung-hoon Kim|0
+56605|Rehan Chaudhary|0
+56697|Rooley Booch|0
+56740|Amberdeep Singh|0
+57238|Trinadha Rao Nakkina|0
+57467|Ursu Luca|0
+57472|Matt Scarpino|2
+57496|Burak Kuka|0
+57511|Cai Carney|0
+57520|NotName|0
+58000|Klayton|0
+58298|Dzul Sungit|0
+59382|Louise Andreasen|0
+59522|Daniel Cano|2
+59734|Andrew Sindt|2
+59738|Kevin Tsai|0
+60287|Ben Wyatt|0
+60487|Moheen Reeyad|2
+60822|Fred Henry III|0
+60824|Billy Tooma|0
